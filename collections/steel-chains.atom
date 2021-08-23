@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/steel-chains.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-27T15:34:10+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6907220983960</id>
+    <published>2021-07-27T15:34:10+07:00</published>
+    <updated>2021-07-27T15:34:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-n238-b"/>
+    <title>MNC-N238-B</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/o5YeAr8dSMCGeoDqwh0B_MNC-N238-B-555.jpg?v=1627979044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Pendant</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH10</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6907220983960</id>
+      <title>Yellow Gold / 50 CM\2.2 MM</title>
+      <s:price currency="USD">3.10</s:price>
+      <s:sku>MNCN238B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896381067416</id>
+    <published>2021-07-21T16:51:51+07:00</published>
+    <updated>2021-07-21T16:51:51+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-c008-a"/>
+    <title>MNC-C008</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/77TtuUoaRP6mR1CUjdYM_MNC-C008-B-555.jpg?v=1627374342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH9</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896381067416</id>
+      <title>Yellow Gold / 60 CM</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>MNCC008B60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6893454688408</id>
+    <published>2021-07-19T17:29:20+07:00</published>
+    <updated>2021-07-19T17:29:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slc001"/>
+    <title>MD-SLC001</title>
+    <s:type>Women Silver Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLC001.jpg?v=1626769560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Chain<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6893454688408</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MDSLC001SIZE45CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6889463808152</id>
+    <published>2021-07-16T17:19:47+07:00</published>
+    <updated>2021-07-16T17:19:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-n334"/>
+    <title>MNC-N334</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/kRJvc27VQoK7E8YHztND_MNC-N334-A.jpg?v=1626769559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.50 - 1.95
+            <a href="https://monera-design.com/products/mnc-n334">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>P31</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6889463808152</id>
+      <title>Yellow Gold / 45 CM / 2 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCN334B45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6889463808152</id>
+      <title>Steel / 45 CM / 2 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCN334A45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6889261596824</id>
+    <published>2021-07-16T14:54:11+07:00</published>
+    <updated>2021-07-16T14:54:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-c136"/>
+    <title>MNC-C136</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-C136-A.jpg?v=1626769558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.50 - 1.95
+            <a href="https://monera-design.com/products/mnc-c136">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH8</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MENonbody</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6889261596824</id>
+      <title>Yellow Gold / 50 CM / 3 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCC136B50CM3MM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6889261596824</id>
+      <title>Steel / 50 CM / 3 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCC136A50CM3MM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6889261596824</id>
+      <title>Steel / 45 CM / 3 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCC136A45CM3MM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6889261596824</id>
+      <title>Steel / 55 CM / 3 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCC136A55CM3MM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6031652356248</id>
+    <published>2020-11-11T11:08:30+07:00</published>
+    <updated>2020-11-11T11:08:30+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/thick-stainless-steel-2-mm-two-tone-necklace"/>
+    <title>Thick Stainless Steel 2 MM Two Tone Necklace</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/9TT1PHNgSse051XdhG1y_MNC-C121-D-555.jpg?v=1607020032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH17</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6031652356248</id>
+      <title>Steel\Black / 50 CM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCC121D150CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6024853880984</id>
+    <published>2020-11-09T14:57:01+07:00</published>
+    <updated>2020-11-09T14:57:01+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/unisex-4-mm-steel-cable-chain-rolo-necklace"/>
+    <title>Unisex 4 MM Steel Cable Chain Rolo Necklace</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ARZ-GSC-004-A.jpg?v=1607020028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Circle pattern and twisted style look </span>Stainless Steel Chain</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH8</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6024853880984</id>
+      <title>Steel / 55 CM\4 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>ARZGSC004SIZE55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6024853880984</id>
+      <title>Steel / 40+5 CM\4 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>ARZGSC004405CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6024853880984</id>
+      <title>Steel / 50 CM\4 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>ARZGSC004SIZE50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6024853880984</id>
+      <title>Steel / 45 CM\4 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>ARZGSC004SIZE45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5865724969112</id>
+    <published>2020-10-02T15:27:40+07:00</published>
+    <updated>2020-10-02T15:27:40+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-snake-1-mm-chain-with-diamond-cut-elements"/>
+    <title>Steel Snake 1 MM Chain with Diamond Cut Elements</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/uPHOIMUES2SxnjgcuwoS_MNC-N335-A.jpg?v=1607019967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steel Snake 1 MM Chain 
+<div id="gtx-trans" style="position: absolute; left: 463px; top: 27.3281px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>P30</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5865724969112</id>
+      <title>Steel / 50 CM / 1 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCN335A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560952455320</id>
+    <published>2020-07-29T20:39:23+07:00</published>
+    <updated>2020-07-29T20:39:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/two-tone-link-stainless-steel-6-mm-chain-necklace"/>
+    <title>Two Tone Link Stainless Steel 6 MM Chain Necklace</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/GuowJ3LjSQimtLdvyofd_MNC-C126-A1-555.jpg?v=1606981913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S.Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH15</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560952455320</id>
+      <title>STEEL\YELLOW GOLD / 55 CM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC126A1SIZE55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560949833880</id>
+    <published>2020-07-29T20:39:05+07:00</published>
+    <updated>2020-07-29T20:39:05+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-singapore-twist-rope-6-mm-chain"/>
+    <title>Steel Singapore Twist Rope 6 MM Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/lrHeWF15Tj2z8EYrRjUt_MNC-C127-B-555.jpg?v=1616487924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH23</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560949833880</id>
+      <title>Yellow Gold\Steel / 55 CM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC127B155CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560938889368</id>
+    <published>2020-07-29T20:37:42+07:00</published>
+    <updated>2020-07-29T20:37:42+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/solid-flat-curve-fashion-6-mm-link-steel-chain"/>
+    <title>Solid Flat Curve Fashion 6 MM Link Steel Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/u5Y6Wb7dQYadeLUJwAV8_MNC-C076-art-1500x1500.jpg?v=1606981909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless steel 316l<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH11</s:tag>
+    <s:tag>CH13</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Yellow Gold / 45 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076B45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Yellow Gold / 50 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Yellow Gold / 55 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076B55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Yellow Gold / 60 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076B60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Black / 45 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076D45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Black / 50 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076D50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Black / 55 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076D55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Black / 60 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076D60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560938889368</id>
+      <title>Steel\Yellow Gold / 55 CM\6 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCC076A1SIZE55CM</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560694505624</id>
+    <published>2020-07-29T20:04:41+07:00</published>
+    <updated>2020-07-29T20:04:41+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/cable-wire-steel-1-5-mm-chain"/>
+    <title>Cable Wire Steel 1.5 MM Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/FtXeugajTcCvp581AYzR_MNC-C135-A-1500x1500.jpg?v=1606981909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steel Cable collar chain</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH23</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560694505624</id>
+      <title>Steel / 40 CM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC135A40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560694505624</id>
+      <title>Yellow Gold / 40 CM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC135B40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560669274264</id>
+    <published>2020-07-29T19:59:12+07:00</published>
+    <updated>2020-07-29T19:59:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/stainless-steel-box-chain-4-mm"/>
+    <title>Stainless Steel Box Chain 4 MM</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/spcmHx6VRKGr4xLqQPqj_MNC-C098-B1W-555.jpg?v=1602212705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.50 - 3.95
+            <a href="https://monera-design.com/products/stainless-steel-box-chain-4-mm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH8</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560669274264</id>
+      <title>Steel\Yellow Gold / 50 CM\ 4 MM</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCC098B1W50CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560669274264</id>
+      <title>Yellow Gold / 45 CM\ 4 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC098B45CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5560626479256</id>
+    <published>2020-07-29T19:50:03+07:00</published>
+    <updated>2020-07-29T19:50:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-snake-chain-2-mm"/>
+    <title>Steel Snake Chain 2 MM</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/K8nuOWtT7eLD5rH5dUwv_MNC-N337_2_-A.jpg?v=1606124094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            0.95 - 1.35
+            <a href="https://monera-design.com/products/steel-snake-chain-2-mm">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Chain</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>P30</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5560626479256</id>
+      <title>Yellow Gold / 50 CM / 2 MM</title>
+      <s:price currency="USD">1.35</s:price>
+      <s:sku>MNCN337B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5560626479256</id>
+      <title>Steel / 50 CM / 2 MM</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCN337A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414362906776</id>
+    <published>2020-06-30T15:21:12+07:00</published>
+    <updated>2020-06-30T15:21:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/oval-shape-ball-steel-2-4-mm-chain"/>
+    <title>Oval Shape Ball Steel 2.4 MM Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/YmORQKc0RWUmAUfiYFFR_MNC-C081-Model-A.jpg?v=1606981886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel316L <br>Chain size:Width:2.40MM. Length:50CM.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH3</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414362906776</id>
+      <title>Steel / 50 CM\2.4 MM</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>MNCC081A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414362185880</id>
+    <published>2020-06-30T15:21:07+07:00</published>
+    <updated>2020-06-30T15:21:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/simple-yellow-gold-flat-curb-steel-2-mm-chain"/>
+    <title>Simple Yellow Gold Flat Curb Steel 2 MM Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/OPv1JDsEQXKK6ZkU5DZz_MNC-C104-_E0_B8_A3_E0_B8_B9_E0_B8_9B_E0_B8_AA_E0_B8_AD_E0_B8_87-555.jpg?v=1606981885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L Width 2MM.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH5</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414362185880</id>
+      <title>Yellow Gold / 50 CM\2 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC104B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414359367832</id>
+    <published>2020-06-30T15:20:47+07:00</published>
+    <updated>2020-06-30T15:20:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/link-steel-chain-2-4-mm-thickness"/>
+    <title>Link Steel Chain 2.4 MM Thickness</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ric8CRblRiMchiJQOA6o_MNC-C107-B_e734ffaa-bfb9-401b-8fb1-727e3336d469.jpg?v=1604030086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.50 - 1.95
+            <a href="https://monera-design.com/products/link-steel-chain-2-4-mm-thickness">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">STAINLESS STEEL NECKLACE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH8</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414359367832</id>
+      <title>Yellow Gold / 50 CM\2.4 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCC107B50CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414359367832</id>
+      <title>Yellow Gold / 55 CM\2.4 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCC107B55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414359367832</id>
+      <title>Steel / 50 CM\2.4 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCC107A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414359367832</id>
+      <title>Steel / 55 CM\2.4 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCC107A55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414358024344</id>
+    <published>2020-06-30T15:20:37+07:00</published>
+    <updated>2020-06-30T15:20:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/two-tone-steel-3-mm-ball-chain"/>
+    <title>Two Tone Steel 3 MM Ball Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/J6e1g9vfSK6P7ZAb75Z1_MNC-C116-MT-555.jpg?v=1606981884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CHAIN</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH23</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414358024344</id>
+      <title>Yellow Gold/Steel / 55 CM\3 MM</title>
+      <s:price currency="USD">2.70</s:price>
+      <s:sku>MNCC116MTSIZE55CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414357041304</id>
+    <published>2020-06-30T15:20:32+07:00</published>
+    <updated>2020-06-30T15:20:32+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/two-tone-diamond-cut-steel-6-mm-chain-necklace"/>
+    <title>Two Tone Diamond Cut Steel 6 MM Chain necklace</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tWYEbRkNQhGR7rT8Tp0C_MNC-C124-A1-555.jpg?v=1606981883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S.Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH15</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414357041304</id>
+      <title>STEEL\YELLOW GOLD / 55 CM\6 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC124A1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414354878616</id>
+    <published>2020-06-30T15:20:20+07:00</published>
+    <updated>2020-06-30T15:20:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/flat-twisted-3-mm-link-steel-chain"/>
+    <title>Flat Twisted 3 MM Link Steel Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/93YCddGaSBqkJBIOckUy_MNC-C108-B-555.jpg?v=1606981882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            3.50 - 4.50
+            <a href="https://monera-design.com/products/flat-twisted-3-mm-link-steel-chain">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH18</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414354878616</id>
+      <title>Yellow Gold / 45 CM\3 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCC108B45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414354878616</id>
+      <title>Steel / 45 CM\3 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC108A45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414353600664</id>
+    <published>2020-06-30T15:20:12+07:00</published>
+    <updated>2020-06-30T15:20:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/oval-shape-2-4-mm-ball-chain"/>
+    <title>Oval Shape 2.4 MM Ball Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/0WwzDzTuSBWUAytjX40e_MNC-N232-A-555.jpg?v=1606981881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S.STEEL CHAIN</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH7</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414353600664</id>
+      <title>Steel / 50 CM\2.4 MM</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>MNCN232A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414347735192</id>
+    <published>2020-06-30T15:19:34+07:00</published>
+    <updated>2020-06-30T15:19:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/two-tone-link-steel-3-5-mm-chain"/>
+    <title>Two Tone Link Steel 3.5 MM Chain</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/QOCvA4aMQuI7OOlKiNRu_MNC-C118-A1-555.jpg?v=1606981881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">S.Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH18</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414347735192</id>
+      <title>Steel\Yellow Gold / 55 CM\3.5 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC118A1</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414345048216</id>
+    <published>2020-06-30T15:19:17+07:00</published>
+    <updated>2020-06-30T15:19:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-c111"/>
+    <title>Simple Steel 2.4 MM Ball Chain with Clasp</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/4b4NjUPSuqkxmlgrNdZ8_MNC-C111-A.jpg?v=1606981880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L CHAIN</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH17</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414345048216</id>
+      <title>Steel / 40 CM\2.4 MM</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MNCC111A40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414345048216</id>
+      <title>Steel / 45 CM\2.4 MM</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MNCC111A45CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414339936408</id>
+    <published>2020-06-30T15:18:45+07:00</published>
+    <updated>2020-06-30T15:18:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/stainless-steel-thick-franco-chain-3-7-mm"/>
+    <title>Stainless Steel Thick Franco Chain 3.7 MM</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-C090-dec.jpg?v=1624350368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            3.50 - 4.50
+            <a href="https://monera-design.com/products/stainless-steel-thick-franco-chain-3-7-mm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Chain Width 50CM., Length 3.68MM.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH24</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Steel / 45 CM\3.7 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC090A45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Steel / 50 CM\3.7 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC090A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Steel / 55 CM\3.7 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC090A55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Steel / 60 CM\3.7 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCC090A60CMFBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Yellow Gold / 40 CM\3.7 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCC090B40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Yellow Gold / 50 CM\3.7 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCC090B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414339936408</id>
+      <title>Yellow Gold / 55 CM\3.7 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCC090B55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5414337085592</id>
+    <published>2020-06-30T15:18:28+07:00</published>
+    <updated>2020-06-30T15:18:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mesh-steel-chain-3-5-mm-unisex"/>
+    <title>Mesh Steel Chain 3.5 MM Unisex</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-C001-art_2.jpg?v=1624350365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.80 - 2.50
+            <a href="https://monera-design.com/products/mesh-steel-chain-3-5-mm-unisex">(17 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Chain length 45 cm.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH6</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Steel / 40 CM\3.5 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MNCC001A40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Steel / 45 CM\3.5 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MNCC001A45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Steel / 50 CM\3.5 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MNCC001A50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Steel / 55 CM\3.5 MM</title>
+      <s:price currency="USD">1.80</s:price>
+      <s:sku>MNCC001A55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Yellow Gold / 40 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001B40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Yellow Gold / 45 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001B45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Yellow Gold / 50 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Yellow Gold / 55 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001B55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Rose Gold / 40 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001C40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Rose Gold / 45 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001C45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Rose Gold / 50 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001C50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Rose Gold / 55 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001C55CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Rose Gold / 60 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001C60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Black / 40 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001D40CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Black / 45 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001D45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Black / 50 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001D50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5414337085592</id>
+      <title>Black / 60 CM\3.5 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCC001D60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

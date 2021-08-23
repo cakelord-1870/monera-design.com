@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/silver-bracelet.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-06T14:40:21+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6869547024536</id>
+    <published>2021-07-06T14:40:21+07:00</published>
+    <updated>2021-07-06T14:40:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr013"/>
+    <title>MD-SLBR013</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR013.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869547024536</id>
+      <title>Silver / 10 MM / 16 CM + 2 CM</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>MDSLBR013</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869543747736</id>
+    <published>2021-07-06T14:38:07+07:00</published>
+    <updated>2021-07-06T14:38:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr015"/>
+    <title>MD-SLBR015</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR015.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869543747736</id>
+      <title>Silver / 3 MM / 15 CM + 2 CM</title>
+      <s:price currency="USD">12.49</s:price>
+      <s:sku>MDSLBR015</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6565092229272</id>
+    <published>2021-03-09T17:19:55+07:00</published>
+    <updated>2021-03-09T17:19:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbg008"/>
+    <title>MD-SLBG008</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBG008.jpg?v=1615883206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6565092229272</id>
+      <title>Silver / 55x45 MM</title>
+      <s:price currency="USD">27.90</s:price>
+      <s:sku>MDSLBG008</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6565065752728</id>
+    <published>2021-03-09T17:10:41+07:00</published>
+    <updated>2021-03-09T17:10:41+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbg007"/>
+    <title>MD-SLBG007</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBG007.jpg?v=1615883206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6565065752728</id>
+      <title>Silver / 55x45 MM</title>
+      <s:price currency="USD">26.25</s:price>
+      <s:sku>MDSLBG007</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6565003985048</id>
+    <published>2021-03-09T16:37:27+07:00</published>
+    <updated>2021-03-09T16:37:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr017"/>
+    <title>MD-SLBR017</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR017.jpg?v=1615883205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6565003985048</id>
+      <title>Silver / 16 CM + 3 CM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLBR017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6564992254104</id>
+    <published>2021-03-09T16:27:44+07:00</published>
+    <updated>2021-03-09T16:27:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr016"/>
+    <title>MD-SLBR016</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR016.jpg?v=1615883205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6564992254104</id>
+      <title>Silver / 15 CM + 2 CM</title>
+      <s:price currency="USD">9.49</s:price>
+      <s:sku>MDSLBR016</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6564933664920</id>
+    <published>2021-03-09T15:58:29+07:00</published>
+    <updated>2021-03-09T15:58:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr014"/>
+    <title>MD-SLBR014</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR014.jpg?v=1615883205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6564933664920</id>
+      <title>Silver / 17 CM + 3 CM</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>MDSLBR014</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6255832006808</id>
+    <published>2021-02-03T17:29:52+07:00</published>
+    <updated>2021-02-03T17:29:52+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/delicate-silver-925-cz-close-bangle"/>
+    <title>Delicate Silver 925 CZ Close Bangle</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/PYRQHUETreq12OBQpVkg_MD-SLBG001-555.jpg?v=1613464299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925  Bangle
+<div id="gtx-trans" style="position: absolute; left: 114px; top: 27.3281px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>MDSWN-BOX1</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6255832006808</id>
+      <title>Silver / 55 MM</title>
+      <s:price currency="USD">24.50</s:price>
+      <s:sku>MDSLBG001</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5625256968344</id>
+    <published>2020-08-11T18:24:38+07:00</published>
+    <updated>2020-08-11T18:24:38+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr005"/>
+    <title>MD-SLBR005</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/7H2bIVGXRtSv9UqePTM7_MD-SLBR008-SLBR007-SLBR005-SLR160-SLR159-model-555.jpg?v=1598591328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5625256968344</id>
+      <title>Silver / 19 CM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MDSLBR005FBL</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582597656708</id>
+    <published>2020-02-20T22:58:28+07:00</published>
+    <updated>2020-02-20T22:58:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbg005"/>
+    <title>MD-SLBG005</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3qIpkev7SgGa9Py2bp9r_MD-SLBG005.jpg?v=1598512428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582597656708</id>
+      <title>Silver / 55 MM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLBG005</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582597066884</id>
+    <published>2020-02-20T22:57:48+07:00</published>
+    <updated>2020-02-20T22:57:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr007"/>
+    <title>MD-SLBR007</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tao3XzoZQG6d8ztAb4CW_MD-SLBR007.jpg?v=1598512425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            9.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582597066884</id>
+      <title>Silver / Free Size</title>
+      <s:price currency="USD">9.80</s:price>
+      <s:sku>MDSLBR007</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582596608132</id>
+    <published>2020-02-20T22:57:25+07:00</published>
+    <updated>2020-02-20T22:57:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr004"/>
+    <title>MD-SLBR004</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ZQtYWQKeSA2rtLxDKuEt_MD-SLBR004.jpg?v=1598512423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582596608132</id>
+      <title>Silver / 19 CM</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MDSLBR004</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582593593476</id>
+    <published>2020-02-20T22:54:39+07:00</published>
+    <updated>2020-02-20T22:54:39+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr003"/>
+    <title>MD-SLBR003</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/fuZNkIFEQ4CWZ8EIxUVq_MD-SLBR003-555.jpg?v=1598512413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            5.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582593593476</id>
+      <title>Silver / 19 CM</title>
+      <s:price currency="USD">5.60</s:price>
+      <s:sku>MDSLBR003</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582592675972</id>
+    <published>2020-02-20T22:54:07+07:00</published>
+    <updated>2020-02-20T22:54:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-infinity-bracelet-with-resizeable"/>
+    <title>Silver 925 Infinity Bracelet with Resize-able</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/B536nw9qQ6bFy0bHZjEQ_MD-SLBR012-1500x1500.jpg?v=1598512411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Infinity Bracelet with Resize-able</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>On Body</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582592675972</id>
+      <title>Silver / Free Size</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLBR012</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582592413828</id>
+    <published>2020-02-20T22:53:49+07:00</published>
+    <updated>2020-02-20T22:53:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbg006"/>
+    <title>MD-SLBG006</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/93b30dfSymKh71Fo4W3D_MD-SLBG006.jpg?v=1598512410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582592413828</id>
+      <title>Silver / 55 MM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLBG006</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582590054532</id>
+    <published>2020-02-20T22:52:33+07:00</published>
+    <updated>2020-02-20T22:52:33+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr010"/>
+    <title>MD-SLBR010</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mivFZZwTuWdgLR7XolW1_MD-SLBR010-1500x1500.jpg?v=1598512405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            10.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>On Body</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582590054532</id>
+      <title>Silver / Free Size</title>
+      <s:price currency="USD">10.80</s:price>
+      <s:sku>MDSLBR010</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582583926916</id>
+    <published>2020-02-20T22:48:54+07:00</published>
+    <updated>2020-02-20T22:48:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr011"/>
+    <title>MD-SLBR011</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/11H3OfkPTVSnC70Al20z_MD-SLBR011-1500x1500.jpg?v=1598512393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            14.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>On Body</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582583926916</id>
+      <title>Silver / Free Size</title>
+      <s:price currency="USD">14.20</s:price>
+      <s:sku>MDSLBR011</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582583861380</id>
+    <published>2020-02-20T22:48:49+07:00</published>
+    <updated>2020-02-20T22:48:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr006"/>
+    <title>MD-SLBR006</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/NWfm3EoFTWuhTp3g6hht_MD-SLBR006.jpg?v=1598512392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            7.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582583861380</id>
+      <title>Silver / 19 CM</title>
+      <s:price currency="USD">7.15</s:price>
+      <s:sku>MDSLBR006</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582574981252</id>
+    <published>2020-02-20T22:43:06+07:00</published>
+    <updated>2020-02-20T22:43:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbg003"/>
+    <title>MD-SLBG003</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Hd8X9hNCQyOEVItt3ykA_MD-SLBG003.jpg?v=1598527356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582574981252</id>
+      <title>Silver / 55 MM</title>
+      <s:price currency="USD">10.90</s:price>
+      <s:sku>MDSLBG003</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582574391428</id>
+    <published>2020-02-20T22:42:19+07:00</published>
+    <updated>2020-02-20T22:42:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/i-love-u-silver-925-bracelet"/>
+    <title>I LOVE U Silver 925 Bracelet</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>Heavenly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/LO79EolOSKWpSxjn0BgA_EVE-BR16.jpg?v=1598527353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heavenly<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver bracelet. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVE-BOX1</s:tag>
+    <s:tag>Heavenly</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582574391428</id>
+      <title>Silver / 15 CM + 5 CM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>EVEBR16</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582538412164</id>
+    <published>2020-02-20T22:28:14+07:00</published>
+    <updated>2020-02-20T22:28:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/natural-stone-silver-925-bracelet"/>
+    <title>Natural Stone Silver 925 Bracelet</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>Heavenly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/RuWdNFQiTw2HLjOr5ZXw_EVE-BR12.jpg?v=1598527324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heavenly<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            29.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver bracelet. with crystal quartz and CZ</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>EVE-BOX1</s:tag>
+    <s:tag>Heavenly</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582538412164</id>
+      <title>Silver / 15 CM + 5 CM</title>
+      <s:price currency="USD">29.60</s:price>
+      <s:sku>EVEBR12</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582537166980</id>
+    <published>2020-02-20T22:27:55+07:00</published>
+    <updated>2020-02-20T22:27:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/natural-stone-bracelet-silver-925"/>
+    <title>Natural Stone Bracelet Silver 925</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>Heavenly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/0n46MOUTpmaKBttOwaQa_EVE-BR11.png?v=1598527323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heavenly<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            29.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver bracelet. with crystal quartz and CZ</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>EVE-BOX1</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582537166980</id>
+      <title>Silver / 15 CM + 5 CM</title>
+      <s:price currency="USD">29.60</s:price>
+      <s:sku>EVEBR11</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582474252420</id>
+    <published>2020-02-20T22:04:54+07:00</published>
+    <updated>2020-02-20T22:04:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/delicate-3-cz-lines-silver-925-cz-bangle"/>
+    <title>Delicate 3 CZ lines Silver 925 CZ Bangle</title>
+    <s:type>Women Silver Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/jWY3CC2rQ1Wd3eGm4iVK_MD-SLBG002-Model-555.jpg?v=1613464255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bangle<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>MDSWN-BOX1</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582474252420</id>
+      <title>Silver / 55 MM</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>MDSLBG002</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

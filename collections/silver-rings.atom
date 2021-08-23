@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/silver-rings.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-07T14:25:05+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6871540924568</id>
+    <published>2021-07-07T14:25:05+07:00</published>
+    <updated>2021-07-07T14:25:05+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr001"/>
+    <title>MD-SLR001</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/dX99qo2R5aMMZUhIst3g_MD-SLR001-555.jpg?v=1626164577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6871540924568</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MDSLR001J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6871539417240</id>
+    <published>2021-07-07T14:23:24+07:00</published>
+    <updated>2021-07-07T14:23:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr129"/>
+    <title>MD-SLR129</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/iFSvwRDPSdaodKdRBfC6_MD-SLR129.jpg?v=1626164577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            7.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6871539417240</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>MDSLR129J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6752715276440</id>
+    <published>2021-05-13T09:13:11+07:00</published>
+    <updated>2021-05-13T09:13:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr049"/>
+    <title>MD-SLR049</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mo1beAVkR6u5mNTG5enb_MD-SLR049.jpg?v=1621327049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6752715276440</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.60</s:price>
+      <s:sku>MDSLR049J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569410756760</id>
+    <published>2021-03-11T15:38:25+07:00</published>
+    <updated>2021-03-11T15:38:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr182"/>
+    <title>MD-SLR182</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLR182.jpg?v=1615883210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410756760</id>
+      <title>Silver / E 49</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLR182E49</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410756760</id>
+      <title>Silver / E 51</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLR182E51</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410756760</id>
+      <title>Silver / E 55</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLR182E55</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410756760</id>
+      <title>Silver / E 57</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLR182E57</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410756760</id>
+      <title>Silver / E 59</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLR182E59</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569410068632</id>
+    <published>2021-03-11T15:37:26+07:00</published>
+    <updated>2021-03-11T15:37:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr181"/>
+    <title>MD-SLR181</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLR181.jpg?v=1615883207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410068632</id>
+      <title>Silver / E 49</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLR181E49</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410068632</id>
+      <title>Silver / E 51</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLR181E51</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410068632</id>
+      <title>Silver / E 53</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLR181E53</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410068632</id>
+      <title>Silver / E 57</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLR181E57</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410068632</id>
+      <title>Silver / E 59</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLR181E59</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6027810930840</id>
+    <published>2020-11-10T16:09:28+07:00</published>
+    <updated>2020-11-10T16:09:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr065"/>
+    <title>MD-SLR065</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLR065-new.jpg?v=1605231363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">925 Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6027810930840</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLR065J13</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6027810930840</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLR065J11</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6027810930840</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLR065J09</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987143155864</id>
+    <published>2020-10-26T11:58:03+07:00</published>
+    <updated>2020-10-26T11:58:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/eve-r51"/>
+    <title>EVE-R51</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/uaYcY60lQBqvJpww5Aue_EVE-R51.jpg?v=1604002447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987143155864</id>
+      <title>Silver / J12</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>EVER51J12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4933297045636</id>
+    <published>2020-05-13T17:23:14+07:00</published>
+    <updated>2020-05-13T17:23:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr006-1"/>
+    <title>MD-SLR006</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/JzRF17BcS9ep7K9p2zvW_MD-SLR006-555.jpg?v=1598512538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4933297045636</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR006J13</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4933297045636</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR006J11</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582597230724</id>
+    <published>2020-02-20T22:58:04+07:00</published>
+    <updated>2020-02-20T22:58:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr158"/>
+    <title>MD-SLR158</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/KaLLjqlARWa8dncTvzMo_MD-SLR158.jpg?v=1598512426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582597230724</id>
+      <title>Silver / E52</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MDSLR158E52</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582595657860</id>
+    <published>2020-02-20T22:56:10+07:00</published>
+    <updated>2020-02-20T22:56:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr026"/>
+    <title>MD-SLR026</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/d5FbZDC3SpmGLeEISdFM_MD-SLR026-Model02.jpg?v=1598512420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582595657860</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR026J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582595657860</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR026J13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582594773124</id>
+    <published>2020-02-20T22:55:27+07:00</published>
+    <updated>2020-02-20T22:55:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr048"/>
+    <title>MD-SLR048</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3EPCxkrNQlCCuQlYPNNH_MD-SLR048-555.jpg?v=1598512418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594773124</id>
+      <title>Silver / J15</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR048J15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594773124</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR048J13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594773124</id>
+      <title>Silver / J17</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR048J17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594773124</id>
+      <title>Silver / J19</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR048J19</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582591889540</id>
+    <published>2020-02-20T22:53:14+07:00</published>
+    <updated>2020-02-20T22:53:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr068"/>
+    <title>MD-SLR068</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/l4LmRFXjSKaAZnxXR3Ea_MD-SLR068-555.jpg?v=1598512409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582591889540</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLR068J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582589563012</id>
+    <published>2020-02-20T22:52:21+07:00</published>
+    <updated>2020-02-20T22:52:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr161"/>
+    <title>MD-SLR161</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/vPV6TbEOQtAkl6BpaGmi_MD-SLR161.jpg?v=1598512404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582589563012</id>
+      <title>Silver / E53</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>MDSLR161E53</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582589563012</id>
+      <title>Silver / E51</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>MDSLR161E51</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582589071492</id>
+    <published>2020-02-20T22:52:06+07:00</published>
+    <updated>2020-02-20T22:52:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr160"/>
+    <title>MD-SLR160</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/lrZ8cLfwReVaVWfRro8Q_MD-SLR160-model-555.jpg?v=1598512403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            7.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582589071492</id>
+      <title>Silver / E51</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLR160E51</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582589071492</id>
+      <title>Silver / E53</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLR160E53</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582588874884</id>
+    <published>2020-02-20T22:51:58+07:00</published>
+    <updated>2020-02-20T22:51:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr130"/>
+    <title>MD-SLR130</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/JjlxX6dQUi5d2HoP5uzM_MD-SLR130.jpg?v=1598512403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582588874884</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR130J09</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582588055684</id>
+    <published>2020-02-20T22:51:27+07:00</published>
+    <updated>2020-02-20T22:51:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr043"/>
+    <title>MD-SLR043</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/dselofJ2Sxa7vosC3jUT_MD-SLR043-Model.jpg?v=1598512401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            5.90 - 6.40
+            <a href="https://monera-design.com/products/md-slr043">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582588055684</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR043J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582588055684</id>
+      <title>Silver / J15</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MDSLR043J15</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582588055684</id>
+      <title>Silver / J17</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MDSLR043J17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582587629700</id>
+    <published>2020-02-20T22:51:02+07:00</published>
+    <updated>2020-02-20T22:51:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr021"/>
+    <title>MD-SLR021</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/EPDqheq7RHGwzhPJZh2a_MD-SLR021-Model03.jpg?v=1598512400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582587629700</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MDSLR021J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582587629700</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MDSLR021J09FBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582586253444</id>
+    <published>2020-02-20T22:50:15+07:00</published>
+    <updated>2020-02-20T22:50:15+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr013"/>
+    <title>MD-SLR013</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Z7M8oERiwEwNJR4OQxgM_MD-SLR013-Model04.jpg?v=1598512399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582586253444</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR013J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582586253444</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR013J13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582581436548</id>
+    <published>2020-02-20T22:47:26+07:00</published>
+    <updated>2020-02-20T22:47:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr041"/>
+    <title>MD-SLR041</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Isc1PayOQcm5JePoBXw5_MD-SLR041-Model00.jpg?v=1598512389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582581436548</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLR041J09</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582580256900</id>
+    <published>2020-02-20T22:46:49+07:00</published>
+    <updated>2020-02-20T22:46:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr038"/>
+    <title>MD-SLR038</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/DmXvmfcQ7Gj7Mg8AP1Mw_MD-SLR038-Model04_e19e22ae-4f9f-4e68-8ac3-4e8694728bce.jpg?v=1598512388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            5.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582580256900</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>MDSLR038J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582580256900</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>MDSLR038J09</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582580256900</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>MDSLR038J13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582578684036</id>
+    <published>2020-02-20T22:45:43+07:00</published>
+    <updated>2020-02-20T22:45:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr018"/>
+    <title>MD-SLR018</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/eKydvtZMRh6hVBUHyxVi_MD-SLR018.jpg?v=1598512387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582578684036</id>
+      <title>Silver / J17</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR018J17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582578421892</id>
+    <published>2020-02-20T22:45:29+07:00</published>
+    <updated>2020-02-20T22:45:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr008"/>
+    <title>MD-SLR008</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/5o8Kgz2mSS2kH2fXMgl7_MD-SLR008-Model00.jpg?v=1598512386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            4.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582578421892</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">4.40</s:price>
+      <s:sku>MDSLR008J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582569214084</id>
+    <published>2020-02-20T22:40:34+07:00</published>
+    <updated>2020-02-20T22:40:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr175"/>
+    <title>MD-SLR175</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/d7hD3ltuQj2YYviqAMSt_MD-SLR175.jpg?v=1598527349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>On Body</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582569214084</id>
+      <title>Silver / E55</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR175E55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582569214084</id>
+      <title>Silver / E57</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR175E57</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582567805060</id>
+    <published>2020-02-20T22:40:13+07:00</published>
+    <updated>2020-02-20T22:40:13+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr123"/>
+    <title>MD-SLR123</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/m4fn0vVRQO0XV0jENOh8_MD-SLR123-555.jpg?v=1598527348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582567805060</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLR123J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582566428804</id>
+    <published>2020-02-20T22:39:58+07:00</published>
+    <updated>2020-02-20T22:39:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr094"/>
+    <title>MD-SLR094</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/FjcjmW6RtSZkynlFxwjp_MD-SLR094-555.jpg?v=1598527347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            3.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582566428804</id>
+      <title>Silver / J13</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR094J13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582566428804</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR094J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582566428804</id>
+      <title>Silver / J09</title>
+      <s:price currency="USD">3.85</s:price>
+      <s:sku>MDSLR094J09</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/steel-bangles.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-30T12:01:55+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6912033783960</id>
+    <published>2021-07-30T12:01:55+07:00</published>
+    <updated>2021-07-30T12:01:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg347-a"/>
+    <title>MNC-BG347</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3iQBkxJhS9SKrlma9MgR_MNC-BG347-B.jpg?v=1628583841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG8</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6912033783960</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBG347C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6907218886808</id>
+    <published>2021-07-27T15:32:21+07:00</published>
+    <updated>2021-07-27T15:32:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg344-a"/>
+    <title>MNC-BG344</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/DmyZTjglTWWAocAL34RD_MNC-BG344-B.jpg?v=1627979043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG57</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6907218886808</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBG344C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6907218886808</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBG344B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6889316253848</id>
+    <published>2021-07-16T15:27:07+07:00</published>
+    <updated>2021-07-16T15:27:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg147-a"/>
+    <title>MNC-BG147</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mWLSFRwT76uEyzSluAFn_MNC-BG147-B-1500x1500.jpg?v=1626769558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bangle,women,lady,stainless,316l,steel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG36</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6889316253848</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG147B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6858792009880</id>
+    <published>2021-06-30T14:48:33+07:00</published>
+    <updated>2021-06-30T14:48:33+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg377-a"/>
+    <title>MNC-BG377</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/DR7OIEdYQ7GAPj6A16bd_MNC-BG377-C.jpg?v=1625559915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            4.00 - 5.20
+            <a href="https://monera-design.com/products/mnc-bg377-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG15</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6858792009880</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBG377A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6858792009880</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>MNCBG377C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6840286544024</id>
+    <published>2021-06-20T23:32:10+07:00</published>
+    <updated>2021-06-20T23:32:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg168-b"/>
+    <title>MNC-BG168-B</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/8HgVvYuyS8KHN6a93aEJ_MNC-BG168-Model.jpg?v=1624350401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG47</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6840286544024</id>
+      <title>Yellow Gold / 55 MM</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MNCBG168B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6817788002456</id>
+    <published>2021-06-10T10:37:14+07:00</published>
+    <updated>2021-06-10T10:37:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg409"/>
+    <title>MNC-BG409</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/EBz3PhHuTxOTsaMnM29M_MNC-BG409-A.jpg?v=1624350383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            2.15 - 2.95
+            <a href="https://monera-design.com/products/mnc-bg409">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG34</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6817788002456</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBG409B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6817788002456</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">2.15</s:price>
+      <s:sku>MNCBG409A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6817788002456</id>
+      <title>Rose Gold / 60 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBG409C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6817788002456</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBG409D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6752709640344</id>
+    <published>2021-05-13T09:10:04+07:00</published>
+    <updated>2021-05-13T09:10:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/fsbg32-2"/>
+    <title>FSBG32</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/wUDNCC8RZeVtTlU9jus6_FSBG-32-A.jpg?v=1621327049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG15</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6752709640344</id>
+      <title>Steel. / 65 MM</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>MLFSBG32</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6752708755608</id>
+    <published>2021-05-13T09:09:31+07:00</published>
+    <updated>2021-05-13T09:09:31+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/fsbg97"/>
+    <title>FSBG97</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ep8IEYeeTsGjXu4Sjgsu_FSBG-97.jpg?v=1621327049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG40</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6752708755608</id>
+      <title>Steel. / 65 MM</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>MLFSBG97</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6700642697368</id>
+    <published>2021-04-29T15:40:36+07:00</published>
+    <updated>2021-04-29T15:40:36+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg317-a"/>
+    <title>MNC-BG317</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/YMk4dfrsQ0O7afc0llnq_MNC-BG317-model-D-555.jpg?v=1624350381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            3.80 - 5.25
+            <a href="https://monera-design.com/products/mnc-bg317-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">W-6mm | Stainless Steel Basket Weave/ Braided Torc Cuff Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG25</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-BG3</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6700642697368</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>FMMNCBG317A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6700642697368</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">3.80</s:price>
+      <s:sku>MNCBG317D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6692740464792</id>
+    <published>2021-04-26T17:26:38+07:00</published>
+    <updated>2021-04-26T17:26:38+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg392"/>
+    <title>MNC-BG392</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/aA7saji6QfSTr6uOBehp_MNC-BG392-A.jpg?v=1619511963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            4.50 - 4.95
+            <a href="https://monera-design.com/products/mnc-bg392">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG30</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6692740464792</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG392A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692740464792</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MNCBG392C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6692706025624</id>
+    <published>2021-04-26T17:18:29+07:00</published>
+    <updated>2021-04-26T17:18:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg253-b"/>
+    <title>MNC-BG253</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tBbP6Y7kSHK5FV80OzYA_MNC-BG253-B.jpg?v=1619511963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG16</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-BG1</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6692706025624</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCBG253B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6692451221656</id>
+    <published>2021-04-26T15:42:56+07:00</published>
+    <updated>2021-04-26T15:42:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg150-a"/>
+    <title>MNC-BG150</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/V8hD1xJxRpGewhLPbpVA_MNC-BG150-B.jpg?v=1619511962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            5.50 - 6.95
+            <a href="https://monera-design.com/products/mnc-bg150-a">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG4</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-BG1</s:tag>
+    <s:tag>ML-BG3</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Steel / 50MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCBG150A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Steel\Yellow Gold / 50MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>FMMNCBG150B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG150B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG150C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG150D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692451221656</id>
+      <title>Blue / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG150E</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6692446503064</id>
+    <published>2021-04-26T15:39:31+07:00</published>
+    <updated>2021-04-26T15:39:31+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/open-cuff-twisted-wire-stainless-steel-bangle-for-women"/>
+    <title>Open Cuff Twisted Wire Stainless Steel Bangle for Women</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/IiCMISR8RIufPhCO7tK8_MNC-BG623-A.jpg?v=1619511962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            5.95 - 7.95
+            <a href="https://monera-design.com/products/open-cuff-twisted-wire-stainless-steel-bangle-for-women">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG22</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6692446503064</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MNCBG623A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692446503064</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG623C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692446503064</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG623B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692446503064</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG623D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6692185407640</id>
+    <published>2021-04-26T13:36:28+07:00</published>
+    <updated>2021-04-26T13:36:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg397"/>
+    <title>MNC-BG397</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tVvbtalATiOhLieNvqRg_MNC-BG397-B.jpg?v=1619511958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            6.95 - 8.95
+            <a href="https://monera-design.com/products/mnc-bg397">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG30</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6692185407640</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBG397C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692185407640</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG397A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692185407640</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBG397B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6692185407640</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBG397D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6619587805336</id>
+    <published>2021-03-31T13:51:44+07:00</published>
+    <updated>2021-03-31T13:51:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/fsbg35-a"/>
+    <title>FSBG35</title>
+    <s:type>Men Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/06CgBxpSfqwb1Pw9KIMU_FSBG35-A-555_86002c5b-0d4d-4447-8f5b-851fd9f7d145.jpg?v=1617702833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Bangle<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG18</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6619587805336</id>
+      <title>Steel / 75 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>FSBG35A75MM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6602009116824</id>
+    <published>2021-03-24T15:30:07+07:00</published>
+    <updated>2021-03-24T15:30:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg254-a"/>
+    <title>MNC-BG254</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BG254-art_3.jpg?v=1625559908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG18</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6602009116824</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG254C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6602009116824</id>
+      <title>Blue / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG254E</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6602009116824</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG254B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6602009116824</id>
+      <title>Coffee / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG254F</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6602009116824</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBG254D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6598688243864</id>
+    <published>2021-03-23T11:23:18+07:00</published>
+    <updated>2021-03-23T11:23:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg367-a"/>
+    <title>MNC-BG367</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/k670ocPWQM6qq13SPekO_MNC-BG367-B.jpg?v=1616487927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG54</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6598688243864</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBG367C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6598670155928</id>
+    <published>2021-03-23T11:10:58+07:00</published>
+    <updated>2021-03-23T11:10:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg368-a"/>
+    <title>MNC-BG368</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mB8hRyiLRJy12hEqFVdG_MNC-BG368-C.jpg?v=1616487926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            3.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG54</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MENonbody</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6598670155928</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBG368C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6562368356504</id>
+    <published>2021-03-08T15:51:05+07:00</published>
+    <updated>2021-03-08T15:51:05+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg299-b"/>
+    <title>MNC-BG299-B</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/jLsHnHaKSDWLkAyCIeAB_MNC-BG299-B-555.jpg?v=1615278593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG57</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6562368356504</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBG299B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6535467991192</id>
+    <published>2021-02-24T10:37:25+07:00</published>
+    <updated>2021-02-24T10:37:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg318-a"/>
+    <title>MNC-BG318</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/55kByuTPTOCHEwYZMD68_MNC-BG318-A.jpg?v=1614673377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            4.90 - 5.90
+            <a href="https://monera-design.com/products/mnc-bg318-a">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG 23</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6535467991192</id>
+      <title>Steel / 60 MM</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>MNCBG318A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6535467991192</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MNCBG318B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6535467991192</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MNCBG318C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6278925648024</id>
+    <published>2021-02-15T13:50:33+07:00</published>
+    <updated>2021-02-15T13:50:33+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg107-b"/>
+    <title>MNC-BG107</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/CUdIlCQ7qqLt6Kpz2IWA_MNC-BG107-B-555.jpg?v=1613464308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG48</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6278925648024</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCBG107B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6253218300056</id>
+    <published>2021-02-02T12:26:02+07:00</published>
+    <updated>2021-02-02T12:26:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-womens-cute-love-heart-open-cuff-bangle"/>
+    <title>Steel Womens Cute Love Heart Open Cuff Bangle</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mxEed0vRem3nZZYWOejQ_MNC-BG286-B-1500x1500.jpg?v=1613464296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            3.95 - 4.50
+            <a href="https://monera-design.com/products/steel-womens-cute-love-heart-open-cuff-bangle">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG3</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6253218300056</id>
+      <title>Steel. / 60 MM</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCBG286A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253218300056</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG286B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253218300056</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG286C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253218300056</id>
+      <title>Black / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG286D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253218300056</id>
+      <title>Coffee / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG286F</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6224131621016</id>
+    <published>2021-01-18T17:27:11+07:00</published>
+    <updated>2021-01-18T17:27:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/twisted-multicolor-steel-bangle"/>
+    <title>Twisted Multicolor Steel Bangle</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/I4uq6L9qRQCgvnlhMGF2_MNC-BG281-B-555.jpg?v=1613464293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG16</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>ML-BG2</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6224131621016</id>
+      <title>Black\Steel / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG281D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6224131621016</id>
+      <title>Yellow Gold\Steel / 60 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBG281B1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987154002072</id>
+    <published>2020-10-26T12:00:20+07:00</published>
+    <updated>2020-10-26T12:00:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/fsbg62"/>
+    <title>FSBG62</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/TFcAV5pwT1S6xq24bZmN_FSBG-62_56689953-5cc7-4673-aaf3-43298d4d711a.jpg?v=1604002449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG52</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987154002072</id>
+      <title>Steel / 60mm</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>FSBG62</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987152887960</id>
+    <published>2020-10-26T12:00:06+07:00</published>
+    <updated>2020-10-26T12:00:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/sparkly-stainless-steel-2-tone-12-mm-bangle"/>
+    <title>Sparkly Stainless Steel 2 Tone 12 MM Bangle</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/HZkWBGI1QjuJcOSHomwe_FSBG-111-B.jpg?v=1608627687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG 25</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987152887960</id>
+      <title>Multicolor / 65 MM.</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MLFSBG111B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

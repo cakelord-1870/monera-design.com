@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/steel-jewelry.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-08-16T11:56:59+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6946036973720</id>
+    <published>2021-08-16T11:56:59+07:00</published>
+    <updated>2021-08-16T11:56:59+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-s008-b"/>
+    <title>MNC-S008-B</title>
+    <s:type>Jewelry Set</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/koQXAZtgQSc141xTjKdt_MNC-S008-B.jpg?v=1629188772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Jewelry Set<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Jewelry Set</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>MNC-S1</s:tag>
+    <s:tag>Neklace</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6946036973720</id>
+      <title>Yellow Gold / 45 CM + 5 CM</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>MNCS008B</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6945961246872</id>
+    <published>2021-08-16T11:21:27+07:00</published>
+    <updated>2021-08-16T11:21:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er574-a"/>
+    <title>MNC-ER574</title>
+    <s:type>Unisex Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/cIVrQEtTBukAYMB4r6Cm_MNC-ER574-A.jpg?v=1629188772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Earrings<br>
+        <strong>Price: </strong>
+            1.95 - 2.25
+            <a href="https://monera-design.com/products/mnc-er574-a">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ER38</s:tag>
+    <s:tag>FMML</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-ER2</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6945961246872</id>
+      <title>Steel. / 4 MM * 13 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>FMMNCER574A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6945961246872</id>
+      <title>Yellow Gold / 4 MM * 13 MM</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>MNCER574B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6945961246872</id>
+      <title>Black / 4 MM * 13 MM</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>MNCER574D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6945961246872</id>
+      <title>Rose Gold / 4 MM * 13 MM</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>MNCER574C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6929643962520</id>
+    <published>2021-08-10T11:37:14+07:00</published>
+    <updated>2021-08-10T11:37:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er1074"/>
+    <title>MNC-ER1074</title>
+    <s:type>Women Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/pEV7DbNPR2mw1VPLZwBO_MNC-ER1074.jpg?v=1628583844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Earrings<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Stainless steel Earrings<!--EndFragment-->
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>No Price</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6929643962520</id>
+      <title>Pink Gold / 20 MM * 35 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCER1074C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6929626595480</id>
+    <published>2021-08-10T11:23:24+07:00</published>
+    <updated>2021-08-10T11:23:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er1067"/>
+    <title>MNC-ER1067</title>
+    <s:type>Women Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/34kqPDlVSiaYIHwpUmOv_MNC-ER1067.jpg?v=1628583843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Earrings<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!--StartFragment-->Stainless steel Earrings<!--EndFragment-->
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6929626595480</id>
+      <title>Pink Gold\CZ / 15 MM * 55 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCER1067C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6928477356184</id>
+    <published>2021-08-09T17:29:42+07:00</published>
+    <updated>2021-08-09T17:29:42+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er692-a"/>
+    <title>MNC-ER692-A</title>
+    <s:type>Unisex Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/E92YpvmkTjaFLExxJcmo_MNC-ER692-A-555.jpg?v=1628583843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Earrings<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ERB9</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-ER3</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6928477356184</id>
+      <title>Steel / 6 MM * 8 MM</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>FMMNCER692A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6919966949528</id>
+    <published>2021-08-04T16:00:36+07:00</published>
+    <updated>2021-08-04T16:00:36+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-p846-a"/>
+    <title>MNC-P846-A</title>
+    <s:type>Men Necklace</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3pJU4xVCSSqPeMgYBYGG_MNC-P846-A.jpg?v=1628583843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Necklace<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless steel 316l<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>PB37</s:tag>
+    <s:tag>Pendant</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6919966949528</id>
+      <title>Steel / 15 MM * 35 MM / 60 CM</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MNCP846A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6919870054552</id>
+    <published>2021-08-04T15:06:14+07:00</published>
+    <updated>2021-08-04T15:06:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er859-a"/>
+    <title>MNC-ER859-A</title>
+    <s:type>Unisex Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/C76LizqeTieJ74RArM9S_MNC-ER859-555.jpg?v=1628583842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Earrings<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">7mm | Stainless Steel 3-tone Skull Cross Sword Faux Fake Ear Plug w/ O-Rings | G-1.2mm (pair)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ER4</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-ER 4</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6919870054552</id>
+      <title>Steel / 8 MM.</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>FMMNCER859A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6919866974360</id>
+    <published>2021-08-04T15:04:14+07:00</published>
+    <updated>2021-08-04T15:04:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er493-a"/>
+    <title>MNC-ER493</title>
+    <s:type>Unisex Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/6mhLqnooSXqYcDTF2Lkc_MNC-ER493-D.jpg?v=1628583842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Earrings<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ER24</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6919866974360</id>
+      <title>Black / 4 MM * 25 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCER493D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6919533035672</id>
+    <published>2021-08-04T10:02:40+07:00</published>
+    <updated>2021-08-04T10:02:40+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er587-b"/>
+    <title>MNC-ER587-B</title>
+    <s:type>Unisex Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/fqasxrj9TT2CqVv2EqKs_MNC-ER587-B.jpg?v=1628583842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Earrings<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ER31</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>ML-ER3</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6919533035672</id>
+      <title>Yellow Gold / 4 MM * 13 MM / White</title>
+      <s:price currency="USD">2.90</s:price>
+      <s:sku>FMMNCER587B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6916995416216</id>
+    <published>2021-08-02T14:46:18+07:00</published>
+    <updated>2021-08-02T14:46:18+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-er1246"/>
+    <title>MNC-ER1246</title>
+    <s:type>Women Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-ER1246-A.jpg?v=1627979046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Earrings<br>
+        <strong>Price: </strong>
+            4.50 - 5.50
+            <a href="https://monera-design.com/products/mnc-er1246">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Amazon</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6916995416216</id>
+      <title>Steel / 7 MM * 85 MM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCER1246A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6916995416216</id>
+      <title>Yellow Gold / 7 MM * 85 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCER1246B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6916995416216</id>
+      <title>Rose Gold / 7 MM * 85 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCER1246C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6916995416216</id>
+      <title>Black / 7 MM * 85 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCER1246D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6912172916888</id>
+    <published>2021-07-30T14:02:24+07:00</published>
+    <updated>2021-07-30T14:02:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br634"/>
+    <title>MNC-BR634</title>
+    <s:type>Unisex Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR634-B.jpg?v=1627979045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bracelet<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR32</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6912172916888</id>
+      <title>Yellow Gold / 19 CM</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>MNCBR634B19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6912033783960</id>
+    <published>2021-07-30T12:01:55+07:00</published>
+    <updated>2021-07-30T12:01:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg347-a"/>
+    <title>MNC-BG347</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3iQBkxJhS9SKrlma9MgR_MNC-BG347-B.jpg?v=1628583841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG8</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6912033783960</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBG347C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6907220983960</id>
+    <published>2021-07-27T15:34:10+07:00</published>
+    <updated>2021-07-27T15:34:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-n238-b"/>
+    <title>MNC-N238-B</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/o5YeAr8dSMCGeoDqwh0B_MNC-N238-B-555.jpg?v=1627979044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            3.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Pendant</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH10</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6907220983960</id>
+      <title>Yellow Gold / 50 CM\2.2 MM</title>
+      <s:price currency="USD">3.10</s:price>
+      <s:sku>MNCN238B50CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6907218886808</id>
+    <published>2021-07-27T15:32:21+07:00</published>
+    <updated>2021-07-27T15:32:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg344-a"/>
+    <title>MNC-BG344</title>
+    <s:type>Unisex Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/DmyZTjglTWWAocAL34RD_MNC-BG344-B.jpg?v=1627979043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bangle<br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bangle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG57</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6907218886808</id>
+      <title>Pink Gold / 60 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBG344C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6907218886808</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBG344B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6906936721560</id>
+    <published>2021-07-27T10:57:44+07:00</published>
+    <updated>2021-07-27T10:57:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br407-a"/>
+    <title>MNC-BR407</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/4natxqbSzeASTPqBZEF7_MNC-BR407-A-555.jpg?v=1627374343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR 5</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6906936721560</id>
+      <title>Steel / 16 CM+2 CM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBR407A16EX2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6897020862616</id>
+    <published>2021-07-22T07:10:44+07:00</published>
+    <updated>2021-07-22T07:10:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-r932"/>
+    <title>MNC-R932</title>
+    <s:type>Men Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-R932_2_-A.jpg?v=1627374342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Ring<br>
+        <strong>Price: </strong>
+            3.95 - 4.50
+            <a href="https://monera-design.com/products/mnc-r932">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>R51</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Steel / E 57/US 8</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR932AE57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Steel / E 59/US 9</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR932AE59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Steel / E 61/US 10</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR932AE61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Steel / E 65/US 11</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR932AE65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Steel / E 67/US 12</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR932AE67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Yellow Gold / E 57/US 8</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCR932BE57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Yellow Gold / E 59/US 9</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCR932BE59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Yellow Gold / E 61/US 10</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCR932BE61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Yellow Gold / E 65/US 11</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCR932BE65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6897020862616</id>
+      <title>Yellow Gold / E 67/US 12</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCR932BE67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896381067416</id>
+    <published>2021-07-21T16:51:51+07:00</published>
+    <updated>2021-07-21T16:51:51+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-c008-a"/>
+    <title>MNC-C008</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/77TtuUoaRP6mR1CUjdYM_MNC-C008-B-555.jpg?v=1627374342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CH9</s:tag>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896381067416</id>
+      <title>Yellow Gold / 60 CM</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>MNCC008B60CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896103587992</id>
+    <published>2021-07-21T10:38:04+07:00</published>
+    <updated>2021-07-21T10:38:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnr-240g-c-1"/>
+    <title>MNR-240G-C</title>
+    <s:type>Women Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/vP2oJtfREKxRginPWo0x_MNR-240G-C.jpg?v=1627374341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Ring<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel Ring</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RB41</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>SINGLE</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896103587992</id>
+      <title>Steel / J19</title>
+      <s:price currency="USD">2.90</s:price>
+      <s:sku>MNR240GAJ19</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896103587992</id>
+      <title>Yellow Gold/Steel / J19</title>
+      <s:price currency="USD">2.90</s:price>
+      <s:sku>MNR240GBJ19</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896100868248</id>
+    <published>2021-07-21T10:37:38+07:00</published>
+    <updated>2021-07-21T10:37:38+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnr-133g-b"/>
+    <title>MNR-133G-B</title>
+    <s:type>Women Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/AxvoWtseSPaqKNPvlfhL_MNR-133G-B-555.jpg?v=1627374341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Ring<br>
+        <strong>Price: </strong>
+            2.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>R23</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896100868248</id>
+      <title>Yellow Gold / J17</title>
+      <s:price currency="USD">2.30</s:price>
+      <s:sku>MNR133GBJ17</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896099131544</id>
+    <published>2021-07-21T10:37:23+07:00</published>
+    <updated>2021-07-21T10:37:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-r933-a"/>
+    <title>MNC-R933-A</title>
+    <s:type>Men Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-R933_2.jpg?v=1627374341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Ring<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896099131544</id>
+      <title>Steel / E 57/US 8</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR933AE57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896099131544</id>
+      <title>Steel / E 59/US 9</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR933AE59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896099131544</id>
+      <title>Steel / E 67/US 12</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR933AE67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896097132696</id>
+    <published>2021-07-21T10:37:09+07:00</published>
+    <updated>2021-07-21T10:37:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-r844-b"/>
+    <title>MNC-R844</title>
+    <s:type>Unisex Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/4EMzy0TpSY5QFuIfGAIi_MNC-R844-A.jpg?v=1627374340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Ring<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Unisex Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>R25</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896097132696</id>
+      <title>STEEL / E51</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCR844AE51</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896097132696</id>
+      <title>STEEL / E49</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCR844AE49</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896096149656</id>
+    <published>2021-07-21T10:36:55+07:00</published>
+    <updated>2021-07-21T10:36:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-r729-a"/>
+    <title>MNC-R729-A</title>
+    <s:type>Unisex Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/qV7XZM51TpehnbMvtEcz_MNC-R729-555.jpg?v=1627374340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Ring<br>
+        <strong>Price: </strong>
+            3.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RB40</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896096149656</id>
+      <title>Pink Gold / J09</title>
+      <s:price currency="USD">3.90</s:price>
+      <s:sku>MNCR729CJ09</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6896062267544</id>
+    <published>2021-07-21T10:11:43+07:00</published>
+    <updated>2021-07-21T10:11:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-r931"/>
+    <title>MNC-R931</title>
+    <s:type>Men Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-R931_3_-A.jpg?v=1627374338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Ring<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>No Price</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel / E 57/US 8 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931AE57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel / E 59/US 9 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931AE59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel / E 61/US 10 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931AE61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel / E 65/US 11 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931AE65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel / E 67/US 12 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931AE67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel/Yellow Gold / E 57/US 8 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931A1E57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel/Yellow Gold / E 59/US 9 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931A1E59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel/Yellow Gold / E 61/US 10 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931A1E61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel/Yellow Gold / E 65/US 11 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931A1E65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6896062267544</id>
+      <title>Steel/Yellow Gold / E 67/US 12 / Steel/Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MNCR931A1E67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6889463808152</id>
+    <published>2021-07-16T17:19:47+07:00</published>
+    <updated>2021-07-16T17:19:47+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-n334"/>
+    <title>MNC-N334</title>
+    <s:type>Unisex Chain</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/kRJvc27VQoK7E8YHztND_MNC-N334-A.jpg?v=1626769559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Chain<br>
+        <strong>Price: </strong>
+            1.50 - 1.95
+            <a href="https://monera-design.com/products/mnc-n334">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>P31</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6889463808152</id>
+      <title>Yellow Gold / 45 CM / 2 MM</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCN334B45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6889463808152</id>
+      <title>Steel / 45 CM / 2 MM</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCN334A45CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6889316253848</id>
+    <published>2021-07-16T15:27:07+07:00</published>
+    <updated>2021-07-16T15:27:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bg147-a"/>
+    <title>MNC-BG147</title>
+    <s:type>Women Bangle</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mWLSFRwT76uEyzSluAFn_MNC-BG147-B-1500x1500.jpg?v=1626769558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bangle<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Bangle,women,lady,stainless,316l,steel</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bangle</s:tag>
+    <s:tag>BG36</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6889316253848</id>
+      <title>Yellow Gold / 60 MM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MNCBG147B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+</feed>

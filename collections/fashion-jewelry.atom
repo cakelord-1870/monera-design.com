@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/fashion-jewelry.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-05-13T10:32:33+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6752830292120</id>
+    <published>2021-05-13T10:32:33+07:00</published>
+    <updated>2021-05-13T10:32:33+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn052-a-1"/>
+    <title>MNC-BN052</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/UYSMG5F9RjOqDiT9Yhly_MNC-BN052-A.jpg?v=1621327051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Pendant</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>P35</s:tag>
+    <s:tag>Pendant</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6752830292120</id>
+      <title>SILVER / 40 CM * 5 CM. / 12 MM * 10 MM.</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>MNCBN052A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6746809991320</id>
+    <published>2021-05-10T15:57:00+07:00</published>
+    <updated>2021-05-10T15:57:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber037-b"/>
+    <title>MNC-BER037-B</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/XpVXZQM2SWu5xr1faaMZ_MNC-BER037-B-555.jpg?v=1620724506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER3</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6746809991320</id>
+      <title>Yellow Gold / 26 MM * 29 MM.</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCBER037B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6278912311448</id>
+    <published>2021-02-15T13:24:12+07:00</published>
+    <updated>2021-02-15T13:24:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc064-a-1"/>
+    <title>MNC-BC064-A</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/qEC3pNCdRvy5otBwnbeo_MNC-BC064-555.jpg?v=1613464307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FASHION NECKLACE</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2017</s:tag>
+    <s:tag>BC18</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6278912311448</id>
+      <title>Black / 36 CM + 5 CM</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBC064A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6278910017688</id>
+    <published>2021-02-15T13:13:43+07:00</published>
+    <updated>2021-02-15T13:13:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bbr003-a"/>
+    <title>MNC-BBR003</title>
+    <s:type>Fashion Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/OT7AQAUQ2qsX47PTqR7O_MNC-BBR003-C-555.jpg?v=1613464306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Bracelet<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR17</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6278910017688</id>
+      <title>Pink Gold / 17 CM</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MNCBBR003C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6036818100376</id>
+    <published>2020-11-12T16:04:45+07:00</published>
+    <updated>2020-11-12T16:04:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/dangle-drop-fashion-earrings-flower-design"/>
+    <title>Dangle Drop Fashion Earrings Flower Design</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/CfUeRTE7Smm0WSJP88v8_MNC-BER167-A.jpg?v=1607020033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dangle Drop Fashion Earrings
+<div id="gtx-trans" style="position: absolute; left: 397px; top: 27.3281px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER 5</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6036818100376</id>
+      <title>Steel / 22 MM * 57 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER167A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6036818100376</id>
+      <title>Yellow Gold / 22 MM * 57 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER167B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987197157528</id>
+    <published>2020-10-26T12:10:08+07:00</published>
+    <updated>2020-10-26T12:10:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber107-d"/>
+    <title>MNC-BER107-D</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/sMXEIkM3QBKSEZS4KIXt_MNC-BER107-555.jpg?v=1604002455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER13</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987197157528</id>
+      <title>Black / 6 MM</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBER107D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5362214830232</id>
+    <published>2020-06-17T15:53:10+07:00</published>
+    <updated>2020-06-17T15:53:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn044-a"/>
+    <title>MNC-BN044</title>
+    <s:type>Brass Pendant</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/vyxqpUFRS8uBvMTIeevG_MNC-BN044_1_-A.jpg?v=1598591221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Brass Pendant<br>
+        <strong>Price: </strong>
+            3.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Pendant</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>P44</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5362214830232</id>
+      <title>Yellow Gold / 40 CM + 3 CM / 5 MM * 7 MM</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>MNCBN044B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362214830232</id>
+      <title>Silver / 40 CM + 3 CM / 5 MM * 7 MM</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>MNCBN044A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5362211389592</id>
+    <published>2020-06-17T15:52:21+07:00</published>
+    <updated>2020-06-17T15:52:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn041-a"/>
+    <title>MNC-BN041</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Nb4GHbQdR6eaBJZ0EiHJ_MNC-BN041-A.jpg?v=1598591221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            3.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>P47</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5362211389592</id>
+      <title>Silver / 40 CM + 3 CM / 15 MM</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>MNCBN041A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362211389592</id>
+      <title>Yellow Gold / 40 CM + 3 CM / 15 MM</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>MNCBN041B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362211389592</id>
+      <title>Pink Gold / 40 CM + 3 CM / 15 MM</title>
+      <s:price currency="USD">3.70</s:price>
+      <s:sku>MNCBN041C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5362209587352</id>
+    <published>2020-06-17T15:51:50+07:00</published>
+    <updated>2020-06-17T15:51:50+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn045-b"/>
+    <title>MNC-BN045</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Klt46M6GScWZJZZjQwcz_MNC-BN045_1_-B.jpg?v=1598591220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            3.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>P44</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5362209587352</id>
+      <title>Pink Gold / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>MNCBN045C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362209587352</id>
+      <title>Yellow Gold / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>MNCBN045B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362209587352</id>
+      <title>Silver / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.65</s:price>
+      <s:sku>MNCBN045A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5362203656344</id>
+    <published>2020-06-17T15:50:16+07:00</published>
+    <updated>2020-06-17T15:50:16+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn023-c"/>
+    <title>MNC-BN023</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ttsDFdZFQxiiXJHXK0m1_MNC-BN023-C.jpg?v=1598591219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            3.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>P15</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5362203656344</id>
+      <title>Silver / 45 CM + 3 CM / 20 MM * 10 MM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN023A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362203656344</id>
+      <title>Pink Gold / 45 CM + 3 CM / 20 MM * 10 MM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN023C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362203656344</id>
+      <title>Yellow Gold / 45 CM + 3 CM / 20 MM * 10 MM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN023B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5362198708376</id>
+    <published>2020-06-17T15:49:02+07:00</published>
+    <updated>2020-06-17T15:49:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn014-a"/>
+    <title>MNC-BN014</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Iibejzp5T2SCFApsVYgB_MNC-BN014-C.jpg?v=1598591219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>P47</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5362198708376</id>
+      <title>Silver / 40 CM * 5 CM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBN014A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362198708376</id>
+      <title>Pink Gold / 40 CM * 5 CM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBN014C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5362198708376</id>
+      <title>Yellow Gold / 40 CM * 5 CM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBN014B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4956663906436</id>
+    <published>2020-05-22T16:38:28+07:00</published>
+    <updated>2020-05-22T16:38:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/brass-heart-necklace-with-cz-and-rhodium-plating"/>
+    <title>Brass Heart Necklace With CZ and Rhodium Plating</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Kt4SOdSgQv0gqPEenSQG_MNC-BN007-C.jpg?v=1598512548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            3.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>P43</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4956663906436</id>
+      <title>Pink Gold / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN007C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4956663906436</id>
+      <title>Silver / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN007A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4956663906436</id>
+      <title>Yellow Gold / 40 CM + 3 CM</title>
+      <s:price currency="USD">3.60</s:price>
+      <s:sku>MNCBN007B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4956658827396</id>
+    <published>2020-05-22T16:37:03+07:00</published>
+    <updated>2020-05-22T16:37:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/delicate-double-small-tiny-cross-2-mm-fashion-necklace-chain"/>
+    <title>Delicate Double Small Tiny Cross 2 mm Fashion Necklace Chain</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BN034-art.jpg?v=1602212599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Delicate double small cross necklace for women &amp; girls, this rhodium plated brass gold cross necklace with sparkly cubic zirconia stones designed with gentle cable link chain in polished shiny finish for a modern and elegant look. 2mm thick gentle chain in length of 17 inches with additional 1.5 inch chain extender. secured with solid, durable lobster claw closure.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>P43</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4956658827396</id>
+      <title>Yellow Gold / 40 CM + 3 CM / 10 MM * 15 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCBN034B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4956658827396</id>
+      <title>Silver / 40 CM + 3 CM / 10 MM * 15 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCBN034A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4956657221764</id>
+    <published>2020-05-22T16:36:38+07:00</published>
+    <updated>2020-05-22T16:36:38+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bn013-c"/>
+    <title>MNC-BN013</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/jgmtbKcQp67uJHzub3Gg_MNC-BN013_3_-C.jpg?v=1598512547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            4.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Pendant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>P47</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4956657221764</id>
+      <title>Silver / 40 CM + 3 CM / 10 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBN013A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4956657221764</id>
+      <title>Pink Gold / 40 CM + 3 CM / 16 MM * 10.5 MM</title>
+      <s:price currency="USD">4.20</s:price>
+      <s:sku>MNCBN013C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4606129537156</id>
+    <published>2020-02-26T23:40:06+07:00</published>
+    <updated>2020-02-26T23:40:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc045"/>
+    <title>MNC-BC045</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/U7tr9aSQw2WWBsIH8HwE_MNC-BC045-555.jpg?v=1598512469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC14</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4606129537156</id>
+      <title>BLACK/STEEL /WHITE/RED / 40CM+5EX</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>MNCBC045</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4606127407236</id>
+    <published>2020-02-26T23:39:43+07:00</published>
+    <updated>2020-02-26T23:39:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc061"/>
+    <title>MNC-BC061</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/b2n7itnSMqE29UFGlKqw_MNC-BC061-555.jpg?v=1598512468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC18</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4606127407236</id>
+      <title>BLACK/RED / 60CM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBC061</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4606125342852</id>
+    <published>2020-02-26T23:39:26+07:00</published>
+    <updated>2020-02-26T23:39:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc054"/>
+    <title>MNC-BC054</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/zWTaXbVCRiWf142S0baC_MNC-BC054-pic1-555.jpg?v=1598512468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC16</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4606125342852</id>
+      <title>BLACK/STEEL / 35CM+5EX</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBC054</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4606123671684</id>
+    <published>2020-02-26T23:39:09+07:00</published>
+    <updated>2020-02-26T23:39:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc053"/>
+    <title>MNC-BC053</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/McsCkLK4T2C26UctszPG_MNC-BC053-555.jpg?v=1598512467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC16</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4606123671684</id>
+      <title>BLACK/ RED / 35CM+5EX</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBC053</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4606122229892</id>
+    <published>2020-02-26T23:38:54+07:00</published>
+    <updated>2020-02-26T23:38:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-bc059"/>
+    <title>MNC-BC059</title>
+    <s:type>Fashion Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/wLbkaM45SROI3bOUegrd_MNC-BC059-555.jpg?v=1598512466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Necklace<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BC17</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4606122229892</id>
+      <title>BLACK/RED / 35CM+5EX</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBC059</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582175113348</id>
+    <published>2020-02-20T20:02:35+07:00</published>
+    <updated>2020-02-20T20:02:35+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr010-a"/>
+    <title>MNC-BRR010</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/uSx9KgXSfqAVp0fPgqdQ_MNC-BRR010-B.jpg?v=1598527184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            1.85 - 1.95
+            <a href="https://monera-design.com/products/mnc-brr010-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R31</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582175113348</id>
+      <title>Yellow Gold / E51</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCBRR010BE51</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582175113348</id>
+      <title>SILVER / E51</title>
+      <s:price currency="USD">1.85</s:price>
+      <s:sku>MNCBRR010AE51</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582174556292</id>
+    <published>2020-02-20T20:02:21+07:00</published>
+    <updated>2020-02-20T20:02:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr009-a"/>
+    <title>MNC-BRR009</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/pd6JMKmbQXqojUPfb4Wp_MNC-BRR009-B.jpg?v=1598527184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            1.75 - 1.85
+            <a href="https://monera-design.com/products/mnc-brr009-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R31</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582174556292</id>
+      <title>SILVER / E55</title>
+      <s:price currency="USD">1.85</s:price>
+      <s:sku>MNCBRR009AE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582174556292</id>
+      <title>Yellow Gold / E55</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>MNCBRR009BE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582173180036</id>
+    <published>2020-02-20T20:02:09+07:00</published>
+    <updated>2020-02-20T20:02:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr022-a"/>
+    <title>MNC-BRR022</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/RqVx1c91T1qF2XEtHv7e_MNC-BRR022-A.jpg?v=1598527183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            1.85 - 1.95
+            <a href="https://monera-design.com/products/mnc-brr022-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R31</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582173180036</id>
+      <title>Yellow Gold / E53</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCBRR022BE53</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582173180036</id>
+      <title>SILVER / E55</title>
+      <s:price currency="USD">1.85</s:price>
+      <s:sku>MNCBRR022AE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582172852356</id>
+    <published>2020-02-20T20:02:01+07:00</published>
+    <updated>2020-02-20T20:02:01+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr013-a"/>
+    <title>MNC-BRR013-A</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/yXzIO25RRG2vkzXIeJ7e_MNC-BRR013_2_-A-1500x1500.jpg?v=1598527182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R70</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582172852356</id>
+      <title>Silver / E53</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MNCBRR013AE53</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582172852356</id>
+      <title>Silver / E55</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MNCBRR013AE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582171213956</id>
+    <published>2020-02-20T20:01:34+07:00</published>
+    <updated>2020-02-20T20:01:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr019-a"/>
+    <title>MNC-BRR019</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/VkDtoDyYQQKWCZrDIJ7z_MNC-BRR019-B_476e9ecd-48c9-40ca-ba5a-58487ad4f594.jpg?v=1598527181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R36</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582171213956</id>
+      <title>Yellow Gold / E53</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBRR019BE53</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582171213956</id>
+      <title>SILVER / E53</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBRR019AE53</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582171213956</id>
+      <title>SILVER / E55</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBRR019AE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582171213956</id>
+      <title>Yellow Gold / E55</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBRR019BE55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582170034308</id>
+    <published>2020-02-20T20:01:10+07:00</published>
+    <updated>2020-02-20T20:01:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-brr020-a"/>
+    <title>MNC-BRR020-A</title>
+    <s:type>Fashion Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/vlHOYVLuStu8m6vDcygy_MNC-BRR020-A.jpg?v=1598527179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Ring<br>
+        <strong>Price: </strong>
+            1.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fashion</s:tag>
+    <s:tag>R31</s:tag>
+    <s:tag>Ring</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582170034308</id>
+      <title>SILVER / E52</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>MNCBRR020AE52</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582170034308</id>
+      <title>SILVER / E54</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>MNCBRR020AE54</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4582170034308</id>
+      <title>SILVER / E56</title>
+      <s:price currency="USD">1.60</s:price>
+      <s:sku>MNCBRR020AE56</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/steel-bracelets.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-30T14:02:24+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6912172916888</id>
+    <published>2021-07-30T14:02:24+07:00</published>
+    <updated>2021-07-30T14:02:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br634"/>
+    <title>MNC-BR634</title>
+    <s:type>Unisex Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR634-B.jpg?v=1627979045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bracelet<br>
+        <strong>Price: </strong>
+            2.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR32</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6912172916888</id>
+      <title>Yellow Gold / 19 CM</title>
+      <s:price currency="USD">2.35</s:price>
+      <s:sku>MNCBR634B19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6906936721560</id>
+    <published>2021-07-27T10:57:44+07:00</published>
+    <updated>2021-07-27T10:57:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br407-a"/>
+    <title>MNC-BR407</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/4natxqbSzeASTPqBZEF7_MNC-BR407-A-555.jpg?v=1627374343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR 5</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6906936721560</id>
+      <title>Steel / 16 CM+2 CM</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>MNCBR407A16EX2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6819623207064</id>
+    <published>2021-06-11T08:25:41+07:00</published>
+    <updated>2021-06-11T08:25:41+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/stretch-barbell-gym-anxiety-beaded-stainless-steel-bracelet-for-men"/>
+    <title>Stretch Barbell Gym Anxiety Beaded Stainless Steel Bracelet for Men</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/dnK4XVEKTzyKf3Y38gjF_555-BR030.jpg?v=1624350387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stretch Barbell Gym Anxiety Beaded Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BOX-BR</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6819623207064</id>
+      <title>Gray / Free Size</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>555BR030</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6819623207064</id>
+      <title>Red / Free Size</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>555BR030RTG</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6789666767000</id>
+    <published>2021-05-28T11:49:59+07:00</published>
+    <updated>2021-05-28T11:49:59+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br656"/>
+    <title>MNC-BR656</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/uHrtMSuBTQmXct4piGhW_MNC-BR656-A.jpg?v=1622536117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR30</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6789666767000</id>
+      <title>Steel/Black / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR656A21CM</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6789666767000</id>
+      <title>Black / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR656D21CM</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6789666767000</id>
+      <title>Yellow Gold / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR656B21CM</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6780263727256</id>
+    <published>2021-05-25T16:39:25+07:00</published>
+    <updated>2021-05-25T16:39:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/stainless-steel-braided-leather-cuban-link-chain-bracelet"/>
+    <title>Stainless Steel Braided Leather &amp; Cuban Link Chain Bracelet</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR684-art.jpg?v=1624350382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L  Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>MEN</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Black / 21 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABK21CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Black / 23 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABK23CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Brown / 23 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABR23CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Brown / 21 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABR21CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Blue / 23 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABL23CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780263727256</id>
+      <title>Blue / 21 CM / Steel</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR684ABL21CM</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6780248391832</id>
+    <published>2021-05-25T16:31:28+07:00</published>
+    <updated>2021-05-25T16:31:28+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/braided-leather-box-chain-stainless-steel-bracelet"/>
+    <title>Braided Leather &amp; Box Chain Stainless Steel Bracelet</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR685-A.jpg?v=1622536114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6780248391832</id>
+      <title>Steel / 21 CM / Black</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR685A21CM</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6780248391832</id>
+      <title>Steel / 23 CM / Black</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR685A23CM</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6778234437784</id>
+    <published>2021-05-24T17:11:21+07:00</published>
+    <updated>2021-05-24T17:11:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br559-b"/>
+    <title>MNC-BR559</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/sIhWA69T8ma7lDY9iyJh_MNC-BR559-B.jpg?v=1621931008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            8.95 - 9.95
+            <a href="https://monera-design.com/products/mnc-br559-b">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Men Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR 46</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6778234437784</id>
+      <title>Yellow Gold / 21 CM</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>MNCBR559B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6778234437784</id>
+      <title>Steel / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR559A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6778234437784</id>
+      <title>Black / 21 CM</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>MNCBR559D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6713198575768</id>
+    <published>2021-05-04T11:16:04+07:00</published>
+    <updated>2021-05-04T11:16:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br469-b"/>
+    <title>MNC-BR469-B</title>
+    <s:type>Unisex Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/R9sRfQyeTNCGWnCdFFKs_MNC-BR469-555.jpg?v=1620118050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Unisex Bracelet<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR8</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6713198575768</id>
+      <title>Yellow Gold / 19 CM</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>FMMNCBR469B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6278914375832</id>
+    <published>2021-02-15T13:32:31+07:00</published>
+    <updated>2021-02-15T13:32:31+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br372-a"/>
+    <title>MNC-BR372</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/xOPdy2cTISTPoRYbwm1r_MNC-BR372-B.jpg?v=1613464308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR-16</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6278914375832</id>
+      <title>Yellow Gold / 21 CM</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>MNCBR372B21CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6278908543128</id>
+    <published>2021-02-15T13:08:37+07:00</published>
+    <updated>2021-02-15T13:08:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br100-2"/>
+    <title>MNC-BR100</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/nutYCo56RkGNVxWetSOG_MNC-BR100-A.jpg?v=1613464306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            4.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>BRB1</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6278908543128</id>
+      <title>Steel / Size</title>
+      <s:price currency="USD">4.80</s:price>
+      <s:sku>MNCBR100A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6259219464344</id>
+    <published>2021-02-05T11:18:43+07:00</published>
+    <updated>2021-02-05T11:18:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/leather-bracelet-with-magnetic-clasp"/>
+    <title>Leather Bracelet With Magnetic Clasp</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/xSSzffzQ42Fe6aO3gw34_MNC-BR190-A-555.jpg?v=1613464299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR15</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6259219464344</id>
+      <title>Steel / 19 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR190A19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6259219464344</id>
+      <title>Steel / 21 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR190A21CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6259219464344</id>
+      <title>Steel / 23 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR190A23CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6253544243352</id>
+    <published>2021-02-02T16:48:45+07:00</published>
+    <updated>2021-02-02T16:48:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-genuine-black-leather-wrist-bracelet-for-men"/>
+    <title>Steel &amp; Genuine Black Leather Wrist Bracelet for Men</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR646-art.jpg?v=1617093045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            7.95 - 8.95
+            <a href="https://monera-design.com/products/steel-genuine-black-leather-wrist-bracelet-for-men">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steel &amp; Genuine Black Leather Wrist Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6253544243352</id>
+      <title>Steel / 21 CM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBR646A21CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253544243352</id>
+      <title>Black / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR646D21CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253544243352</id>
+      <title>Black / 23 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR646D23CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253544243352</id>
+      <title>Yellow Gold / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR646B21CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6253544243352</id>
+      <title>Yellow Gold / 23 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR646B23CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6224056582296</id>
+    <published>2021-01-18T16:11:56+07:00</published>
+    <updated>2021-01-18T16:11:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/elegant-stainless-steel-dual-row-twisted-cable-bracelet"/>
+    <title>Elegant Stainless Steel Dual Row Twisted Cable Bracelet</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR652-art.jpg?v=1613464290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            7.95 - 8.95
+            <a href="https://monera-design.com/products/elegant-stainless-steel-dual-row-twisted-cable-bracelet">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Steel Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6224056582296</id>
+      <title>Steel / 23 CM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MNCBR652A23CM</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6224056582296</id>
+      <title>Yellow Gold/Steel / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR652B21CM</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6224056582296</id>
+      <title>Yellow Gold/Steel / 23 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR652B23CM</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6224056582296</id>
+      <title>Black/Steel / 23 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR652D23CM</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6151236452504</id>
+    <published>2020-12-14T10:41:15+07:00</published>
+    <updated>2020-12-14T10:41:15+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-curb-flat-cuban-link-6-mm-bracelet"/>
+    <title>Steel Curb Flat Cuban Link 6 mm Bracelet</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/kzlYxg9fQqW6yn2nRGBQ_MNBR-061T-A-no-logo.jpg?v=1608627691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            6.50 - 6.95
+            <a href="https://monera-design.com/products/steel-curb-flat-cuban-link-6-mm-bracelet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">316L Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR 24</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>MNBR-061T</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6151236452504</id>
+      <title>Steel / 21 CM</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>555BR001A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6151236452504</id>
+      <title>Steel/Black / 21 CM</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>555BR001D</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6146351530136</id>
+    <published>2020-12-11T15:38:56+07:00</published>
+    <updated>2020-12-11T15:38:56+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br627"/>
+    <title>MNC-BR627</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>555JEWELRY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/itNQMFg5QvafP8vD3Px0_MNC-BR627-A.jpg?v=1608035007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555JEWELRY<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR26</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6146351530136</id>
+      <title>Yellow Gold / Free Size</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBR627B</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6146351530136</id>
+      <title>Steel / Free Size</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MNCBR627A</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6146344419480</id>
+    <published>2020-12-11T15:33:12+07:00</published>
+    <updated>2020-12-11T15:33:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/star-of-david-braided-leather-steel-bracelet"/>
+    <title>Star of David Braided Leather Steel Bracelet</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/LmiaqcrQaq5lRTrnqPNw_MNC-BR643-A.jpg?v=1608035006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            4.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Leather star of david bracelet for men &amp; boys. This 10mm wide trendy genuine leather bracelet available in lengths of 8.25 and 9 inches, designed with two braided leather bands and a double-sided stainless steel star of david charm.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR42</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6146344419480</id>
+      <title>Steel / 23 CM / Black</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>MNCBR643A23CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6146344419480</id>
+      <title>Steel / 23 CM / Brown</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>MNCBR643A123CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6146344419480</id>
+      <title>Steel / 21 CM / Black</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>MNCBR643A21CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6146344419480</id>
+      <title>Black / 21 CM / Black.</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>MNCBR643D21CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6146344419480</id>
+      <title>Steel / 21 CM / Brown</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>MNCBR643A121CM</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987369746584</id>
+    <published>2020-10-26T13:01:04+07:00</published>
+    <updated>2020-10-26T13:01:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br446-a"/>
+    <title>MNC-BR446</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/k3BO2cYRZGKz6mV5fuKA_MNC-BR446-A-555.jpg?v=1604002461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR27</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987369746584</id>
+      <title>Steel / Free Size</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCBR446A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987366207640</id>
+    <published>2020-10-26T13:00:08+07:00</published>
+    <updated>2020-10-26T13:00:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br412-b"/>
+    <title>MNC-BR412-B</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/UhjogRhzQJelQ50wbxmq_MNC-BR412-B-DETAIL.jpg?v=1604002460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>BRB10</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987366207640</id>
+      <title>Yellow Gold / 16 CM+2 CM</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>MNCBR412B16EX2FBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5971293339800</id>
+    <published>2020-10-23T14:51:27+07:00</published>
+    <updated>2020-10-23T14:51:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br410-b"/>
+    <title>MNC-BR410-B</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/JWqbYuyYQmCNkVAvWRlU_MNC-BR410-B.jpg?v=1604002438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>BRB6</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5971293339800</id>
+      <title>Yellow Gold / 16 CM+2 CM</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MNCBR410B16EX2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5971291340952</id>
+    <published>2020-10-23T14:51:02+07:00</published>
+    <updated>2020-10-23T14:51:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br654-a"/>
+    <title>MNC-BR654-A</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/JPQnOZOFTzqikMYMvNUj_MNC-BR654-A.jpg?v=1604002437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5971291340952</id>
+      <title>Steel/Black / 21 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MNCBR654A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5971212632216</id>
+    <published>2020-10-23T14:32:49+07:00</published>
+    <updated>2020-10-23T14:32:49+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br409-b"/>
+    <title>MNC-BR409-B</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/b1hDMxr1Qp6eGcPHuFlS_MNC-BR409-B.jpg?v=1604002437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>BRB10</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5971212632216</id>
+      <title>Yellow Gold / 16 CM+2 CM</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku>MNCBR409B16EX2FBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5971156435096</id>
+    <published>2020-10-23T14:19:06+07:00</published>
+    <updated>2020-10-23T14:19:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br406-b"/>
+    <title>MNC-BR406-B</title>
+    <s:type>Women Bracelet</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/2Q7ePRhNTjW5EyzYDTgw_MNC-BR406-B.jpg?v=1604002436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Bracelet<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stainless Steel 316L<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>BRB10</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5971156435096</id>
+      <title>Yellow Gold / 16 CM + 2 CM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MNCBR406B16EX2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5940751827096</id>
+    <published>2020-10-15T15:40:45+07:00</published>
+    <updated>2020-10-15T15:40:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/steel-bracelet-with-blasted-leather"/>
+    <title>Steel Bracelet with Blasted Leather</title>
+    <s:type>Men Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR668-A.jpg?v=1604002426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Men Bracelet<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Magnetic clasp Steel Bracelet</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Steel / 19 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668A19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Steel / 23 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668A23CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Yellow Gold / 19 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668B19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Yellow Gold / 21 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668B21CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Yellow Gold / 23 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668B23CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940751827096</id>
+      <title>Black / 19 CM</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>MNCBR668D19CM</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5940566229144</id>
+    <published>2020-10-15T14:14:37+07:00</published>
+    <updated>2020-10-15T14:14:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br674"/>
+    <title>MNC-BR674</title>
+    <s:type>Unisex Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR674-A.jpg?v=1604002424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Bracelet<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR2</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>No Price</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5940566229144</id>
+      <title>Yellow Gold / Free Size</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR674B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5940566229144</id>
+      <title>Multicolor / Free Size</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR674MT</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5934454374552</id>
+    <published>2020-10-14T15:52:23+07:00</published>
+    <updated>2020-10-14T15:52:23+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-br673"/>
+    <title>MNC-BR673</title>
+    <s:type>Unisex Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MNC-BR673-MT2.jpg?v=1604002423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Unisex Bracelet<br>
+        <strong>Price: </strong>
+            2.50 - 2.75
+            <a href="https://monera-design.com/products/mnc-br673">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BR3</s:tag>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>No Price</s:tag>
+    <s:tag>Steel Jewelry</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5934454374552</id>
+      <title>Steel / Free Size / Red</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBR673A2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5934454374552</id>
+      <title>Yellow Gold / Free Size / Red</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR673B2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5934454374552</id>
+      <title>Yellow Gold / Free Size / Black</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR673B1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5934454374552</id>
+      <title>Multicolor / Free Size / Black</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR673MT1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/5934454374552</id>
+      <title>Multicolor / Free Size / Red</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBR673MT2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

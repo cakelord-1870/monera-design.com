@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/fashion-earrings.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-05-10T15:57:00+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6746809991320</id>
+    <published>2021-05-10T15:57:00+07:00</published>
+    <updated>2021-05-10T15:57:00+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber037-b"/>
+    <title>MNC-BER037-B</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/XpVXZQM2SWu5xr1faaMZ_MNC-BER037-B-555.jpg?v=1620724506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER3</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6746809991320</id>
+      <title>Yellow Gold / 26 MM * 29 MM.</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCBER037B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6036818100376</id>
+    <published>2020-11-12T16:04:45+07:00</published>
+    <updated>2020-11-12T16:04:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/dangle-drop-fashion-earrings-flower-design"/>
+    <title>Dangle Drop Fashion Earrings Flower Design</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/CfUeRTE7Smm0WSJP88v8_MNC-BER167-A.jpg?v=1607020033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dangle Drop Fashion Earrings
+<div id="gtx-trans" style="position: absolute; left: 397px; top: 27.3281px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER 5</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6036818100376</id>
+      <title>Steel / 22 MM * 57 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER167A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6036818100376</id>
+      <title>Yellow Gold / 22 MM * 57 MM</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER167B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987197157528</id>
+    <published>2020-10-26T12:10:08+07:00</published>
+    <updated>2020-10-26T12:10:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber107-d"/>
+    <title>MNC-BER107-D</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/sMXEIkM3QBKSEZS4KIXt_MNC-BER107-555.jpg?v=1604002455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            0.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER13</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987197157528</id>
+      <title>Black / 6 MM</title>
+      <s:price currency="USD">0.95</s:price>
+      <s:sku>MNCBER107D</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577496825988</id>
+    <published>2020-02-19T18:17:46+07:00</published>
+    <updated>2020-02-19T18:17:46+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/wfx6"/>
+    <title>WFX6</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/hGGhevuQNy1HOPYmSc8l_WFX_206.jpg?v=1598538804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rosewood Carving Feather Fake Expander, Sold as single pieces only</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BOX CE</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577496825988</id>
+      <title>Rosewood Wood / 59 MM * 25 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>WFX6Z</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577496694916</id>
+    <published>2020-02-19T18:17:42+07:00</published>
+    <updated>2020-02-19T18:17:42+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/wfx16"/>
+    <title>WFX16</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/rDJO2x6CRNecLYNYFuTw_WFX_2016.jpg?v=1598538803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sono Wood and Mother of Pearl Shell Fake Expander, Sold as single pieces only</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BOX CE</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577496694916</id>
+      <title>Sono Wood and MOP Shell / 35 x 45</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>WFX16</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577496367236</id>
+    <published>2020-02-19T18:17:38+07:00</published>
+    <updated>2020-02-19T18:17:38+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/wfx13"/>
+    <title>WFX13</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mOCwzn8STKDUVnpOVjJf_WFX_2013.jpg?v=1598538803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rosewood Carving Fake Expander, Sold as single pieces only</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BOX CE</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577496367236</id>
+      <title>Rosewood Wood / 40 x 45</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>WFX13</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577495810180</id>
+    <published>2020-02-19T18:17:26+07:00</published>
+    <updated>2020-02-19T18:17:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/fashion-classic-stud-earrings-with-crystals"/>
+    <title>Fashion Classic Stud Earrings with Crystals</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/zWVyLbEzQBa3fyLn3nx8_MNC-ER535-A-555.jpg?v=1611649720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Earrings<br>Size 8 mm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>ER46</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577495810180</id>
+      <title>Silver / 8 MM</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>MNCER535A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577495187588</id>
+    <published>2020-02-19T18:17:16+07:00</published>
+    <updated>2020-02-19T18:17:16+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber638-a"/>
+    <title>MNC-BER638-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/a6KdwT2muKZq7vy6MwgS_MNC-BER638-A.jpg?v=1598538797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER2</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577495187588</id>
+      <title>Silver / 12 MM * 10 MM.</title>
+      <s:price currency="USD">2.20</s:price>
+      <s:sku>MNCBER638A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577494106244</id>
+    <published>2020-02-19T18:16:48+07:00</published>
+    <updated>2020-02-19T18:16:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber616-a"/>
+    <title>MNC-BER616-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/XS3R7g99SIqiezSCEqcC_MNC-BER616-A.jpg?v=1598538796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577494106244</id>
+      <title>Silver / 8 MM * 12 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER616A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577494007940</id>
+    <published>2020-02-19T18:16:44+07:00</published>
+    <updated>2020-02-19T18:16:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber614-a"/>
+    <title>MNC-BER614-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Zu57wYIpRKSN35CTtlSq_MNC-BER614-A.jpg?v=1598538795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER2</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577494007940</id>
+      <title>Silver / 11 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER614A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577493024900</id>
+    <published>2020-02-19T18:16:27+07:00</published>
+    <updated>2020-02-19T18:16:27+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber605-a-2"/>
+    <title>MNC-BER605-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/stbIl4bET1alSY61WrUY_MNC-BER605-A.jpg?v=1598538793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER2</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577493024900</id>
+      <title>Silver / 5 MM * 15 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER605A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577492369540</id>
+    <published>2020-02-19T18:16:13+07:00</published>
+    <updated>2020-02-19T18:16:13+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber600-a"/>
+    <title>MNC-BER600-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tccnHISTuXxBDzHdeqbg_MNC-BER600-A.jpg?v=1598538792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577492369540</id>
+      <title>Silver / 10 MM * 7 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER600A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577492107396</id>
+    <published>2020-02-19T18:16:06+07:00</published>
+    <updated>2020-02-19T18:16:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber597-a"/>
+    <title>MNC-BER597</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/50oO5LHS8SCAygADUrFB_MNC-BER597-A.jpg?v=1598538792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.00 - 2.50
+            <a href="https://monera-design.com/products/mnc-ber597-a">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER2</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577492107396</id>
+      <title>Yellow Gold / 8 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER597B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577492107396</id>
+      <title>Silver / 8 MM.</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>MNCBER597A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577491943556</id>
+    <published>2020-02-19T18:16:02+07:00</published>
+    <updated>2020-02-19T18:16:02+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber595-b"/>
+    <title>MNC-BER595-B</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/i9XK5rg2RMGGbe7RymGv_MNC-BER595-B.jpg?v=1598538791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion Jewelry<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER2</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577491943556</id>
+      <title>Yellow Gold / 10 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER595B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577491386500</id>
+    <published>2020-02-19T18:15:44+07:00</published>
+    <updated>2020-02-19T18:15:44+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber165-a"/>
+    <title>MNC-BER165</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ouVibOqSYuLOPsuwHXeg_MNC-BER165-C.jpg?v=1598538790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women's Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577491386500</id>
+      <title>Silver / 4 MM * 21 MM.</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MNCBER165A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577491386500</id>
+      <title>Pink Gold / 4 MM * 21 MM.</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MNCBER165C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577490436228</id>
+    <published>2020-02-19T18:15:25+07:00</published>
+    <updated>2020-02-19T18:15:25+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber163-a"/>
+    <title>MNC-BER163</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/m38XlgUWQ66opK5Ocm2Z_MNC-BER163-C.jpg?v=1598538788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women's Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER3</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577490436228</id>
+      <title>Silver / 10 MM.</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>MNCBER163A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577490436228</id>
+      <title>Pink Gold / 10 MM.</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>MNCBER163C</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577490010244</id>
+    <published>2020-02-19T18:15:07+07:00</published>
+    <updated>2020-02-19T18:15:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber162-a"/>
+    <title>MNC-BER162</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/OkOKuHAJRwOyp9OJ3JAD_MNC-BER162-A3.jpg?v=1598538787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women's Brass Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>BOX BN01</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577490010244</id>
+      <title>Pink / 14 MM * 30 MM.</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MNCBER162A2</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577490010244</id>
+      <title>White / 14 MM * 30 MM.</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MNCBER162A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577489551492</id>
+    <published>2020-02-19T18:14:54+07:00</published>
+    <updated>2020-02-19T18:14:54+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber159-a"/>
+    <title>MNC-BER159-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tXJokWtRSWnJS8It57fA_MNC-BER159-A.jpg?v=1598538787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Copper w/ White Gold Plating Bezel-Set Oval Stud Earrings w/ Blue Zircon &amp; SwarovskiÂ® Elements Crystals (Pair)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577489551492</id>
+      <title>Silver / 7 MM * 9 MM.</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MNCBER159A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577488699524</id>
+    <published>2020-02-19T18:14:34+07:00</published>
+    <updated>2020-02-19T18:14:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber156-a"/>
+    <title>MNC-BER156</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/yNwEsKu1QpK8X36vHveY_MNC-BER156-B-555.jpg?v=1598538786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER6</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577488699524</id>
+      <title>Silver / 20 MM * 60 MM.</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBER156A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577488699524</id>
+      <title>Yellow Gold / 20 MM * 60 MM.</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBER156B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577488339076</id>
+    <published>2020-02-19T18:14:29+07:00</published>
+    <updated>2020-02-19T18:14:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber155-a"/>
+    <title>MNC-BER155</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Dp9VH1NtTrSx7ZuI74qK_MNC-BER155-A-555.jpg?v=1598538786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER5</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577488339076</id>
+      <title>Silver / 10 MM * 20 MM.</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>MNCBER155A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577488142468</id>
+    <published>2020-02-19T18:14:22+07:00</published>
+    <updated>2020-02-19T18:14:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber154-a"/>
+    <title>MNC-BER154</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/JiZ5qxcTa6GYq6DTGpwP_MNC-BER154-A-555.jpg?v=1598538785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER6</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577488142468</id>
+      <title>Yellow Gold / 20 MM * 60 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER154B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577488142468</id>
+      <title>Silver / 20 MM * 60 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER154A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577487847556</id>
+    <published>2020-02-19T18:14:15+07:00</published>
+    <updated>2020-02-19T18:14:15+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber153-a"/>
+    <title>MNC-BER153</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/OtyuPHNQTBqplEtbQHpL_MNC-BER153-B-555.jpg?v=1598538785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER5</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577487847556</id>
+      <title>Silver / 22 MM * 60 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER153A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/4577487847556</id>
+      <title>Yellow Gold / 22 MM * 60 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER153B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577487519876</id>
+    <published>2020-02-19T18:14:10+07:00</published>
+    <updated>2020-02-19T18:14:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber152-a"/>
+    <title>MNC-BER152-A</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mJjY8ShCRYKHKeC8B4mB_MNC-BER152-A-555.jpg?v=1598538784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER4</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577487519876</id>
+      <title>Silver / 12 MM * 55 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER152A</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577487224964</id>
+    <published>2020-02-19T18:14:03+07:00</published>
+    <updated>2020-02-19T18:14:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber151-a"/>
+    <title>MNC-BER151</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/WjwBBptgReGsgt0dCSFW_MNC-BER151-A-555.jpg?v=1598538784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            1.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>onbody</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577487224964</id>
+      <title>Yellow Gold / 14 MM * 60 MM.</title>
+      <s:price currency="USD">1.95</s:price>
+      <s:sku>MNCBER151B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4577487061124</id>
+    <published>2020-02-19T18:13:59+07:00</published>
+    <updated>2020-02-19T18:13:59+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/mnc-ber149-b"/>
+    <title>MNC-BER149-B</title>
+    <s:type>Fashion Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/i4Vx5aOwRLOKyDs9dGSk_MNC-BER149-B-555.jpg?v=1598538783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Fashion Earrings<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BER1</s:tag>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4577487061124</id>
+      <title>Yellow Gold / 7 MM * 14 MM.</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MNCBER149B</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

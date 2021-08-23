@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/silver-necklace.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-21T16:14:55+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6896356556952</id>
+    <published>2021-07-21T16:14:55+07:00</published>
+    <updated>2021-07-21T16:14:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln026"/>
+    <title>MD-SLN026</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN026.jpg?v=1627374341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896356556952</id>
+      <title>Silver / 7 MM / 40 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLN026</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869561278616</id>
+    <published>2021-07-06T14:47:35+07:00</published>
+    <updated>2021-07-06T14:47:35+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln001"/>
+    <title>MD-SLN001</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/WjSWi5jQyiSa10U5mX7A_MD-SLN001-555.jpg?v=1625559922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869561278616</id>
+      <title>Silver / 11 MM * 9 MM / 45 CM</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>MDSLN001</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869541159064</id>
+    <published>2021-07-06T14:36:43+07:00</published>
+    <updated>2021-07-06T14:36:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln023"/>
+    <title>MD-SLN023</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN023.jpg?v=1625559920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869541159064</id>
+      <title>Silver / 4 MM * 34 MM / 45 CM</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>MDSLN023</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6646471065752</id>
+    <published>2021-04-12T10:38:12+07:00</published>
+    <updated>2021-04-12T10:38:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln006-1"/>
+    <title>MD-SLN006</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Emz6Y7MrQYm0mgZXYIyB_MD-SLN006-555.jpg?v=1618307625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6646471065752</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>MDSLN006</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6572288835736</id>
+    <published>2021-03-12T13:54:29+07:00</published>
+    <updated>2021-03-12T13:54:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slc002"/>
+    <title>MD-SLC002</title>
+    <s:type>Women Silver Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLC002.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Chain<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6572288835736</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLC002SIZE45CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6572288835736</id>
+      <title>Silver / 50 CM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLC002SIZE50CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6571651039384</id>
+    <published>2021-03-12T09:02:45+07:00</published>
+    <updated>2021-03-12T09:02:45+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slp004"/>
+    <title>MD-SLP004</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLP004.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6571651039384</id>
+      <title>Silver / ADD / 45 CM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MDSLP004</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6571650908312</id>
+    <published>2021-03-12T09:02:41+07:00</published>
+    <updated>2021-03-12T09:02:41+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slp002"/>
+    <title>MD-SLP002</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLP002.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6571650908312</id>
+      <title>Silver / ADD / 45 CM</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>MDSLP002</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6571650678936</id>
+    <published>2021-03-12T09:02:37+07:00</published>
+    <updated>2021-03-12T09:02:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slp001"/>
+    <title>MD-SLP001</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLP001.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6571650678936</id>
+      <title>Silver / ADD / 45 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLP001</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569410592920</id>
+    <published>2021-03-11T15:38:13+07:00</published>
+    <updated>2021-03-11T15:38:13+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln027"/>
+    <title>MD-SLN027</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN027_2.jpg?v=1615883210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410592920</id>
+      <title>Silver / 6 MM * 8 MM / 45 CM</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>MDSLN027</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569410527384</id>
+    <published>2021-03-11T15:38:07+07:00</published>
+    <updated>2021-03-11T15:38:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slc003"/>
+    <title>MD-SLC003</title>
+    <s:type>Women Silver Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLC003.jpg?v=1615883210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Chain<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410527384</id>
+      <title>Silver / 40 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLC003SIZE40CM</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6569410527384</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLC003SIZE45CM</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569409904792</id>
+    <published>2021-03-11T15:37:14+07:00</published>
+    <updated>2021-03-11T15:37:14+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln024"/>
+    <title>MD-SLN024</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN024.jpg?v=1615883207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569409904792</id>
+      <title>Silver / 11 MM * 19 MM / 45 CM</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>MDSLN024</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6569409872024</id>
+    <published>2021-03-11T15:37:11+07:00</published>
+    <updated>2021-03-11T15:37:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln025"/>
+    <title>MD-SLN025</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN025.jpg?v=1615883207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6569409872024</id>
+      <title>Silver / 11 MM * 12 MM / 45 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLN025</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6567088619672</id>
+    <published>2021-03-10T10:13:17+07:00</published>
+    <updated>2021-03-10T10:13:17+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slp003"/>
+    <title>MD-SLP003</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLP003.jpg?v=1615883206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6567088619672</id>
+      <title>Silver / 40 CM</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku>MDSLP003</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6236466151576</id>
+    <published>2021-01-25T16:41:21+07:00</published>
+    <updated>2021-01-25T16:41:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln010"/>
+    <title>MD-SLN010</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/xRrCtvjFSf2zsI5PTKKZ_MD-SLN010-555.jpg?v=1611649726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6236466151576</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>MDSLN010</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5987129950360</id>
+    <published>2020-10-26T11:55:37+07:00</published>
+    <updated>2020-10-26T11:55:37+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/eve-n13b"/>
+    <title>EVE-N13B</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/sT80bdlRAmw4NMlasTbY_EVE-N13B.jpg?v=1604002444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            10.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver necklace with 14 k. gold plated . 40+5 CM.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5987129950360</id>
+      <title>Yellow Gold. / 40 CM * 5 CM</title>
+      <s:price currency="USD">10.15</s:price>
+      <s:sku>EVEN13B</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/5971102924952</id>
+    <published>2020-10-23T14:07:24+07:00</published>
+    <updated>2020-10-23T14:07:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln018"/>
+    <title>MD-SLN018</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/yvCPRL4RGKNswofWVwJw_MD-SLN018.jpg?v=1604002435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/5971102924952</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MDSLN018FBL</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582597623940</id>
+    <published>2020-02-20T22:58:24+07:00</published>
+    <updated>2020-02-20T22:58:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln002"/>
+    <title>MD-SLN002</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/245BaYctQuSjJioHD96N_MD-SLN002-555.jpg?v=1598512428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582597623940</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>MDSLN002</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582594609284</id>
+    <published>2020-02-20T22:55:22+07:00</published>
+    <updated>2020-02-20T22:55:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln007"/>
+    <title>MD-SLN007</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/b4X7q6bPR2etsSDF2dLa_MD-SLN007-555.jpg?v=1598512417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            7.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594609284</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLN007</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582594347140</id>
+    <published>2020-02-20T22:55:10+07:00</published>
+    <updated>2020-02-20T22:55:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln013"/>
+    <title>MD-SLN013</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/XDst1UKwSha8bDP023Y8_MD-SLN013.jpg?v=1598512416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            7.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Women Silver Necklace</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594347140</id>
+      <title>Silver / 45+5 CM</title>
+      <s:price currency="USD">7.15</s:price>
+      <s:sku>MDSLN013</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582594019460</id>
+    <published>2020-02-20T22:55:01+07:00</published>
+    <updated>2020-02-20T22:55:01+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln008"/>
+    <title>MD-SLN008</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/VtSxO1KTNSattKxCZw3Q_MD-SLN008-555.jpg?v=1598512415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582594019460</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>MDSLN008FBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582591627396</id>
+    <published>2020-02-20T22:53:08+07:00</published>
+    <updated>2020-02-20T22:53:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln022"/>
+    <title>MD-SLN022</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/uQhfxDKdSs2BzwRs6NL2_MD-SLN022-1500x1500.jpg?v=1598512408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>On Body</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582591627396</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">9.80</s:price>
+      <s:sku>MDSLN022</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582586056836</id>
+    <published>2020-02-20T22:50:10+07:00</published>
+    <updated>2020-02-20T22:50:10+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln004"/>
+    <title>MD-SLN004</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3iYiiwb9Qsu8A9OHamX9_MD-SLN004-555.jpg?v=1598512399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            7.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582586056836</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLN004</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582574555268</id>
+    <published>2020-02-20T22:42:34+07:00</published>
+    <updated>2020-02-20T22:42:34+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/eve-n37"/>
+    <title>EVE-N37</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>Heavenly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/3ZoeByPRLSQvcPjF2Nrw_EVE-N37.jpg?v=1598527354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heavenly<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Necklaces </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVE-BOX1</s:tag>
+    <s:tag>Heavenly</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582574555268</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>EVEN37</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582573867140</id>
+    <published>2020-02-20T22:41:58+07:00</published>
+    <updated>2020-02-20T22:41:58+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-swe13"/>
+    <title>MD-SWN02</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/UI6y6fFrTaW23r4VKu2t_MD-SWN02-A3-555.jpg?v=1598527352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Swarovski Element Earrings with Silver 925</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582573867140</id>
+      <title>Amethyst / 45 CM</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku>MDSWN02A1</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/4582545031300</id>
+    <published>2020-02-20T22:29:51+07:00</published>
+    <updated>2020-02-20T22:29:51+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/eve-n22"/>
+    <title>EVE-N22</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>Heavenly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/6qUVtU8iS56s2klgSIsn_EVE-N22.jpg?v=1598527328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heavenly<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            14.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver pendant with necklaces </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVE-BOX1</s:tag>
+    <s:tag>Heavenly</s:tag>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/4582545031300</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">14.15</s:price>
+      <s:sku>EVEN22</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>

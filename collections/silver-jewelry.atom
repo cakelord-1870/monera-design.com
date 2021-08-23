@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://monera-design.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://monera-design.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://monera-design.com/collections/silver-jewelry.atom"/>
+  <title>Monera-Design Co., Ltd</title>
+  <updated>2021-07-21T16:14:55+07:00</updated>
+  <author>
+    <name>Monera-Design Co., Ltd</name>
+  </author>
+  <entry>
+    <id>https://monera-design.com/products/6896356556952</id>
+    <published>2021-07-21T16:14:55+07:00</published>
+    <updated>2021-07-21T16:14:55+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln026"/>
+    <title>MD-SLN026</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN026.jpg?v=1627374341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6896356556952</id>
+      <title>Silver / 7 MM / 40 CM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLN026</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6893454688408</id>
+    <published>2021-07-19T17:29:20+07:00</published>
+    <updated>2021-07-19T17:29:20+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slc001"/>
+    <title>MD-SLC001</title>
+    <s:type>Women Silver Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLC001.jpg?v=1626769560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Chain<br>
+        <strong>Price: </strong>
+            3.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chain</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6893454688408</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>MDSLC001SIZE45CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6893452492952</id>
+    <published>2021-07-19T17:27:51+07:00</published>
+    <updated>2021-07-19T17:27:51+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler081"/>
+    <title>MD-SLER081</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/L39XNQFeRRQ6pOysBYCw_MD-SLER081-555.jpg?v=1626769560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">925 Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6893452492952</id>
+      <title>Silver / 7.5 MM * 12.5 MM</title>
+      <s:price currency="USD">6.05</s:price>
+      <s:sku>MDSLER081</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6893427916952</id>
+    <published>2021-07-19T17:15:24+07:00</published>
+    <updated>2021-07-19T17:15:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler024"/>
+    <title>MD-SLER024</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/1t4tkXIQNyBGUrV8cN2k_MD-SLER024-Model.jpg?v=1626769560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            7.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Earring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Earrings.Silver</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6893427916952</id>
+      <title>Silver / 10 MM * 11 MM</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLER024</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6871540924568</id>
+    <published>2021-07-07T14:25:05+07:00</published>
+    <updated>2021-07-07T14:25:05+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr001"/>
+    <title>MD-SLR001</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/dX99qo2R5aMMZUhIst3g_MD-SLR001-555.jpg?v=1626164577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6871540924568</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>MDSLR001J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6871539417240</id>
+    <published>2021-07-07T14:23:24+07:00</published>
+    <updated>2021-07-07T14:23:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr129"/>
+    <title>MD-SLR129</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/iFSvwRDPSdaodKdRBfC6_MD-SLR129.jpg?v=1626164577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            7.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B3</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6871539417240</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">7.60</s:price>
+      <s:sku>MDSLR129J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869567144088</id>
+    <published>2021-07-06T14:50:22+07:00</published>
+    <updated>2021-07-06T14:50:22+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler027"/>
+    <title>MD-SLER027</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/7VBynnWGQSoX5qef6BaQ_MD-SLER027-555.jpg?v=1625559922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Earring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Earrings.Silver</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869567144088</id>
+      <title>Silver / 4 MM * 9 MM</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>MDSLER027</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869561278616</id>
+    <published>2021-07-06T14:47:35+07:00</published>
+    <updated>2021-07-06T14:47:35+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln001"/>
+    <title>MD-SLN001</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/WjSWi5jQyiSa10U5mX7A_MD-SLN001-555.jpg?v=1625559922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869561278616</id>
+      <title>Silver / 11 MM * 9 MM / 45 CM</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>MDSLN001</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869558263960</id>
+    <published>2021-07-06T14:46:26+07:00</published>
+    <updated>2021-07-06T14:46:26+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler121"/>
+    <title>MD-SLER121</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/49K2LqE5QVqYZRoroBKg_MD-SLER121-555.jpg?v=1625559922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            7.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Earrings.Silver</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-BOX2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869558263960</id>
+      <title>Silver / 8 MM * 20 MM</title>
+      <s:price currency="USD">7.30</s:price>
+      <s:sku>MDSLER121</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869551972504</id>
+    <published>2021-07-06T14:43:07+07:00</published>
+    <updated>2021-07-06T14:43:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler148"/>
+    <title>MD-SLER148</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLER148.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869551972504</id>
+      <title>Silver / 3 MM * 30 MM</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>MDSLER148</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869550792856</id>
+    <published>2021-07-06T14:42:24+07:00</published>
+    <updated>2021-07-06T14:42:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler152"/>
+    <title>MD-SLER152</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLER152.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869550792856</id>
+      <title>Silver / 6 MM * 15 MM.</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>MDSLER152</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869547024536</id>
+    <published>2021-07-06T14:40:21+07:00</published>
+    <updated>2021-07-06T14:40:21+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr013"/>
+    <title>MD-SLBR013</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR013.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869547024536</id>
+      <title>Silver / 10 MM / 16 CM + 2 CM</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>MDSLBR013</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869543747736</id>
+    <published>2021-07-06T14:38:07+07:00</published>
+    <updated>2021-07-06T14:38:07+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slbr015"/>
+    <title>MD-SLBR015</title>
+    <s:type>Women Silver Bracelet</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLBR015.jpg?v=1625559921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Bracelet<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelet</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869543747736</id>
+      <title>Silver / 3 MM / 15 CM + 2 CM</title>
+      <s:price currency="USD">12.49</s:price>
+      <s:sku>MDSLBR015</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869541879960</id>
+    <published>2021-07-06T14:37:06+07:00</published>
+    <updated>2021-07-06T14:37:06+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sler031"/>
+    <title>MD-SLER031</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/cbjSTvnT4uIZdLa8glRw_MD-SLER031-Model.jpg?v=1625559920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Earring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Earrings.Silver</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869541879960</id>
+      <title>Silver / 3 MM * 12 MM</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLER031</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6869541159064</id>
+    <published>2021-07-06T14:36:43+07:00</published>
+    <updated>2021-07-06T14:36:43+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln023"/>
+    <title>MD-SLN023</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLN023.jpg?v=1625559920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6869541159064</id>
+      <title>Silver / 4 MM * 34 MM / 45 CM</title>
+      <s:price currency="USD">11.49</s:price>
+      <s:sku>MDSLN023</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6761371926680</id>
+    <published>2021-05-17T16:46:39+07:00</published>
+    <updated>2021-05-17T16:46:39+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-stud-earrings-with-dangle-heart-and-rhodium-plating"/>
+    <title>Silver 925 Stud Earrings with Dangle Heart and Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/tH1hRRHSIeNuQiwOLh0h_MD-SLER112-555.jpg?v=1621327056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Stud Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-BOX2</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6761371926680</id>
+      <title>Silver / 4 MM * 13 MM</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLER112</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6761368617112</id>
+    <published>2021-05-17T16:45:04+07:00</published>
+    <updated>2021-05-17T16:45:04+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-dangle-drop-stud-infinity-heart-earrings-with-rhodium-plating"/>
+    <title>Silver 925 Dangle Drop Stud infinity Heart Earrings with Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/ZHOum6YdSuHyv6FBF4ya_MD-SLER091-555.jpg?v=1621327056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            5.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Heart Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6761368617112</id>
+      <title>Silver / 7.5 MM * 17 MM</title>
+      <s:price currency="USD">5.20</s:price>
+      <s:sku>MDSLER091</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6761359999128</id>
+    <published>2021-05-17T16:41:08+07:00</published>
+    <updated>2021-05-17T16:41:08+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-climbing-stud-star-earrings-with-rhodium-plating"/>
+    <title>Silver 925 Climbing Stud Star Earrings with Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/syJzw9AjQtyWCbumXihn_MD-SLER002-Model.jpg?v=1621327055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6761359999128</id>
+      <title>Silver / 0.8 MM * 1.8 MM</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>MDSLER002</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6752715276440</id>
+    <published>2021-05-13T09:13:11+07:00</published>
+    <updated>2021-05-13T09:13:11+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slr049"/>
+    <title>MD-SLR049</title>
+    <s:type>Women Silver Ring</s:type>
+    <s:vendor>Monera Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/mo1beAVkR6u5mNTG5enb_MD-SLR049.jpg?v=1621327049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monera Design<br>
+        <strong>Type: </strong>Women Silver Ring<br>
+        <strong>Price: </strong>
+            6.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Ring</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLR-B2</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6752715276440</id>
+      <title>Silver / J11</title>
+      <s:price currency="USD">6.60</s:price>
+      <s:sku>MDSLR049J11</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6646471065752</id>
+    <published>2021-04-12T10:38:12+07:00</published>
+    <updated>2021-04-12T10:38:12+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-sln006-1"/>
+    <title>MD-SLN006</title>
+    <s:type>Women Silver Necklace</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/Emz6Y7MrQYm0mgZXYIyB_MD-SLN006-555.jpg?v=1618307625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Necklace<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6646471065752</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>MDSLN006</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6582607315096</id>
+    <published>2021-03-16T12:29:16+07:00</published>
+    <updated>2021-03-16T12:29:16+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-simple-heart-stud-earrings-with-rhodium-plating"/>
+    <title>Silver 925 Simple Heart Stud Earrings with Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/u8pH78SqRSCvS8ENI3Q9_MD-SLER065-1-555.jpg?v=1615883220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            6.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">925 Silver Earrings
+<div id="gtx-trans" style="position: absolute; left: 139px; top: 27.3281px;">
+<div class="gtx-trans-icon"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6582607315096</id>
+      <title>Silver / 9 MM * 9 MM</title>
+      <s:price currency="USD">6.40</s:price>
+      <s:sku>MDSLER065</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6582606332056</id>
+    <published>2021-03-16T12:28:19+07:00</published>
+    <updated>2021-03-16T12:28:19+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-hoop-earrings-with-drop-cross-and-rhodium-plating"/>
+    <title>Silver 925 Hoop Earrings with Drop Cross and Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/RxJpopCAT3ijti6CLlCe_MD-SLER140-1500x1500.jpg?v=1615883220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Hoop Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6582606332056</id>
+      <title>Silver / 1.5 MM * 11 MM</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>MDSLER140</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6582585032856</id>
+    <published>2021-03-16T12:04:09+07:00</published>
+    <updated>2021-03-16T12:04:09+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-3-stars-stud-earrings-with-rhodium-plating"/>
+    <title>Silver 925 3 Stars Stud Earrings with Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/dI9GUEiSXSpPr7mTanKZ_MD-SLER007-555.jpg?v=1615883220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>SLER-B1</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6582585032856</id>
+      <title>Silver / 7 MM</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>MDSLER007FBL</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6572288835736</id>
+    <published>2021-03-12T13:54:29+07:00</published>
+    <updated>2021-03-12T13:54:29+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/md-slc002"/>
+    <title>MD-SLC002</title>
+    <s:type>Women Silver Chain</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLC002.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Chain<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Necklace</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6572288835736</id>
+      <title>Silver / 45 CM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLC002SIZE45CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://monera-design.com/products/6572288835736</id>
+      <title>Silver / 50 CM</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>MDSLC002SIZE50CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://monera-design.com/products/6571651694744</id>
+    <published>2021-03-12T09:03:24+07:00</published>
+    <updated>2021-03-12T09:03:24+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://monera-design.com/products/silver-925-simple-stud-earrings-with-rhodium-plating"/>
+    <title>Silver 925 Simple Stud Earrings with Rhodium Plating</title>
+    <s:type>Women Silver Earrings</s:type>
+    <s:vendor>555Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0321/7932/3012/products/MD-SLER159_2.jpg?v=1615883218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>555Jewelry<br>
+        <strong>Type: </strong>Women Silver Earrings<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Silver 925 Stud Earrings</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:tag>NEW</s:tag>
+    <s:tag>Silver 925</s:tag>
+    <s:tag>Women</s:tag>
+    <s:variant>
+      <id>https://monera-design.com/products/6571651694744</id>
+      <title>Silver / 5 MM</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>MDSLER159-5MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
